@@ -77,10 +77,10 @@ print(df.head())
 | send.flowers       | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC    |
 | alpha.flowers      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap       |
 | zero.flowers       | available | $159.98   | —             | 112            | 53     | 4      | namecheap       |
-| yellow.flowers     | resell    | —         | —             | 116            | 37     | 6      | Sav.com, LLC    |
-| art.flowers        | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap       |
-| fast.flowers       | available | $159.98   | —             | 82             | 53     | 4      | namecheap       |
 | paper.flowers      | resell    | —         | —             | 108            | 36     | 5      | Sav.com, LLC    |
+| art.flowers        | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap       |
+| fast.flowers       | available | $159.98   | —             | 82             | 52     | 4      | namecheap       |
+| yellow.flowers     | resell    | —         | —             | 116            | 35     | 6      | Sav.com, LLC    |
 | one.flowers        | premium   | $845      | $845          | 132            | 50     | 3      | namecheap       |
 | athletics.flowers  | available | $159.98   | —             | 69             | 52     | 9      | namecheap       |
 | fake.flowers       | resell    | —         | —             | 84             | 32     | 4      | Sav.com, LLC    |
