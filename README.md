@@ -1,22 +1,22 @@
-# Available .FLOWERS One-Word Domains (9,727)
+# Available .FLOWERS One-Word Domains (12,136)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C728%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C727%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C136%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .flowers one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .flowers one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,136 domains** on the canonical page below.
 
-**Public extract:** 9,728 rows · **Live catalog:** 9,727 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,136 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/flowers`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FLOWERS one-word doma
 
 ### Files
 
-- `flowers.csv` — public CSV extract (9,728 rows)
-- `flowers.json` — public JSON extract (9,728 rows)
+- `flowers.csv` — public CSV extract (1,000 rows)
+- `flowers.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| power.flowers      | available | $159.98   | —             | 98             | 62     | 5      | namecheap       |
-| bloom.flowers      | resell    | —         | —             | 72             | 53     | 5      | Key-Systems LLC |
-| converse.flowers   | premium   | $2,600    | $2,600        | 64             | 73     | 8      | namecheap       |
-| seventeen.flowers  | available | $159.98   | —             | 84             | 62     | 9      | namecheap       |
-| purple.flowers     | resell    | —         | —             | 62             | 41     | 6      | Sav.com, LLC    |
-| nationwide.flowers | premium   | $2,600    | $2,600        | 76             | 66     | 10     | namecheap       |
-| ace.flowers        | available | $159.98   | —             | 88             | 57     | 3      | namecheap       |
-| white.flowers      | resell    | —         | —             | 102            | 38     | 5      | Sav.com, LLC    |
-| live.flowers       | premium   | $845      | $845          | 108            | 56     | 4      | namecheap       |
-| good.flowers       | available | $159.98   | —             | 82             | 55     | 4      | namecheap       |
-| send.flowers       | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC    |
-| alpha.flowers      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap       |
-| zero.flowers       | available | $159.98   | —             | 112            | 53     | 4      | namecheap       |
-| paper.flowers      | resell    | —         | —             | 108            | 36     | 5      | Sav.com, LLC    |
-| art.flowers        | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap       |
-| fast.flowers       | available | $159.98   | —             | 82             | 52     | 4      | namecheap       |
-| yellow.flowers     | resell    | —         | —             | 116            | 35     | 6      | Sav.com, LLC    |
-| one.flowers        | premium   | $845      | $845          | 132            | 50     | 3      | namecheap       |
-| athletics.flowers  | available | $159.98   | —             | 69             | 52     | 9      | namecheap       |
-| fake.flowers       | resell    | —         | —             | 84             | 32     | 4      | Sav.com, LLC    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| Books.flowers     | available | $159.98   | —             | 52             | 49     | 5      | namecheap    |
+| send.flowers      | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC |
+| CocaCola.flowers  | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap    |
+| jobs.flowers      | available | $159.98   | —             | 79             | 42     | 4      | namecheap    |
+| Chanel.flowers    | premium   | $2,800    | $2,800        | 80             | 77     | 6      | namecheap    |
+| coins.flowers     | available | $159.98   | —             | 56             | 41     | 5      | namecheap    |
+| travelers.flowers | premium   | $2,660    | $2,660        | 58             | 61     | 9      | namesilo     |
+| shortcuts.flowers | available | $159.98   | —             | 48             | 41     | 10     | namecheap    |
+| stories.flowers   | premium   | $2,800    | $2,800        | 58             | 36     | 7      | namecheap    |
+| Tools.flowers     | available | $159.98   | —             | 56             | 40     | 5      | namecheap    |
+| brands.flowers    | premium   | $2,800    | $2,800        | 62             | 28     | 6      | namecheap    |
+| matcha.flowers    | available | $159.98   | —             | 86             | 39     | 6      | namecheap    |
+| herbs.flowers     | premium   | $910      | $910          | 62             | 22     | 5      | namecheap    |
+| aliens.flowers    | available | $64.99    | $114.99       | 56             | 35     | 6      | namesilo     |
+| weddings.flowers  | premium   | $2,660    | $2,660        | 64             | 18     | 8      | namesilo     |
+| tickets.flowers   | available | $64.99    | $114.99       | 64             | 34     | 7      | namesilo     |
+| types.flowers     | premium   | $910      | $910          | 54             | 14     | 5      | namecheap    |
+| etc.flowers       | available | $159.98   | —             | 58             | 34     | 3      | namecheap    |
+| instyle.flowers   | premium   | $2,800    | $2,800        | 78             | 12     | 8      | namecheap    |
+| Cats.flowers      | available | $159.98   | —             | 59             | 33     | 4      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,728-row public sample | 9,727 live domains                               |
+| 1,000-row public sample | 12,136 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
