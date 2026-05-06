@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .flowers one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,713 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,713 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,713 domains · **Median ask:** $191.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/flowers`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| finals.flowers    | available | $64.99    | $114.99       | 80             | 7      | 6      | namesilo     |
+| barup.flowers     | available | $159.98   | —             | 82             | 2      | 6      | namecheap    |
+| geton.flowers     | available | $159.98   | —             | 82             | 10     | 6      | namecheap    |
+| matcha.flowers    | available | $159.98   | —             | 86             | 39     | 6      | namecheap    |
+| useit.flowers     | available | $159.98   | —             | 94             | 7      | 6      | namecheap    |
+| edamame.flowers   | available | $64.99    | $114.99       | 80             | 9      | 7      | namesilo     |
+| playin.flowers    | available | $159.98   | —             | 80             | 10     | 7      | namecheap    |
+| toneup.flowers    | available | $159.98   | —             | 80             | 5      | 7      | namecheap    |
+| makeit.flowers    | available | $159.98   | —             | 82             | 22     | 7      | namecheap    |
 | Books.flowers     | available | $159.98   | —             | 52             | 49     | 5      | namecheap    |
 | send.flowers      | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC |
 | CocaCola.flowers  | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap    |
@@ -73,17 +82,8 @@ print(df.head())
 | stories.flowers   | premium   | $2,800    | $2,800        | 58             | 36     | 7      | namecheap    |
 | shortcuts.flowers | available | $159.98   | —             | 48             | 41     | 10     | namecheap    |
 | brands.flowers    | premium   | $2,800    | $2,800        | 62             | 28     | 6      | namecheap    |
-| matcha.flowers    | available | $159.98   | —             | 86             | 39     | 6      | namecheap    |
 | weddings.flowers  | premium   | $2,660    | $2,660        | 64             | 18     | 8      | namesilo     |
 | prompts.flowers   | available | $64.99    | $114.99       | 54             | 39     | 7      | namesilo     |
-| beaches.flowers   | premium   | $2,660    | $2,660        | 72             | 14     | 7      | namesilo     |
-| aliens.flowers    | available | $64.99    | $114.99       | 56             | 35     | 6      | namesilo     |
-| types.flowers     | premium   | $910      | $910          | 54             | 14     | 5      | namecheap    |
-| Cats.flowers      | available | $159.98   | —             | 59             | 33     | 4      | namecheap    |
-| LongBeach.flowers | premium   | $910      | $910          | 62             | 11     | 10     | namecheap    |
-| payments.flowers  | available | $159.98   | —             | 58             | 33     | 8      | namecheap    |
-| cocks.flowers     | premium   | $2,660    | $2,660        | 56             | 10     | 5      | namesilo     |
-| William.flowers   | available | $159.98   | —             | 74             | 31     | 7      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,713 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,713 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .flowers domains. The set spans clear dictionary-style terms, broad nouns, and more unusual words, as seen in examples such as tips.flowers, homes.flowers, ladies.flowers, and forces.flowers. For founders, the main question is whether the word feels memorable and commercially credible with the .flowers ending. For investors, the key is whether the ask leaves room for resale relative to how naturally the word pairs with this niche extension. With a median ask of 191.17, many names may look inexpensive, but quality still depends on relevance, clarity, and the risk of weak end-user demand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word fits naturally with .flowers
+- Use 191.17 median ask as a price reality anchor
+- Favor clear, memorable words over awkward pairings
+- Review generic terms carefully for trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
