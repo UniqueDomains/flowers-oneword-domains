@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .flowers one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,713 domains · **Median ask:** $191.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/flowers`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | edamame.flowers   | available | $64.99    | $114.99       | 80             | 9      | 7      | namesilo     |
 | playin.flowers    | available | $159.98   | —             | 80             | 10     | 7      | namecheap    |
 | toneup.flowers    | available | $159.98   | —             | 80             | 5      | 7      | namecheap    |
-| makeit.flowers    | available | $159.98   | —             | 82             | 22     | 7      | namecheap    |
+| makeit.flowers    | available | $159.98   | —             | 82             | 21     | 7      | namecheap    |
 | Books.flowers     | available | $159.98   | —             | 52             | 49     | 5      | namecheap    |
 | send.flowers      | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC |
 | CocaCola.flowers  | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
