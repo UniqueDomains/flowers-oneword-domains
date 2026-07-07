@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .flowers one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,713 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,713 domains · **Median ask:** $191.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,713 domains · **Median ask:** $182.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/flowers`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/flowers`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FLOWERS one-word doma
 
 ### Files
 
-- `flowers.csv` — public CSV extract (1,000 rows)
-- `flowers.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `flowers.csv`, public CSV extract (1,000 rows)
+- `flowers.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| finals.flowers    | available | $64.99    | $114.99       | 80             | 7      | 6      | namesilo     |
-| barup.flowers     | available | $159.98   | —             | 82             | 2      | 6      | namecheap    |
-| geton.flowers     | available | $159.98   | —             | 82             | 10     | 6      | namecheap    |
-| matcha.flowers    | available | $159.98   | —             | 86             | 39     | 6      | namecheap    |
-| useit.flowers     | available | $159.98   | —             | 94             | 7      | 6      | namecheap    |
-| edamame.flowers   | available | $64.99    | $114.99       | 80             | 9      | 7      | namesilo     |
-| playin.flowers    | available | $159.98   | —             | 80             | 10     | 7      | namecheap    |
-| toneup.flowers    | available | $159.98   | —             | 80             | 5      | 7      | namecheap    |
-| makeit.flowers    | available | $159.98   | —             | 82             | 21     | 7      | namecheap    |
-| Books.flowers     | available | $159.98   | —             | 52             | 49     | 5      | namecheap    |
-| send.flowers      | resell    | —         | —             | 80             | 38     | 4      | Porkbun, LLC |
-| CocaCola.flowers  | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap    |
-| jobs.flowers      | available | $159.98   | —             | 79             | 42     | 4      | namecheap    |
-| travelers.flowers | premium   | $2,660    | $2,660        | 58             | 61     | 9      | namesilo     |
-| coins.flowers     | available | $159.98   | —             | 56             | 41     | 5      | namecheap    |
-| stories.flowers   | premium   | $2,800    | $2,800        | 58             | 36     | 7      | namecheap    |
-| shortcuts.flowers | available | $159.98   | —             | 48             | 41     | 10     | namecheap    |
-| brands.flowers    | premium   | $2,800    | $2,800        | 62             | 28     | 6      | namecheap    |
-| weddings.flowers  | premium   | $2,660    | $2,660        | 64             | 18     | 8      | namesilo     |
-| prompts.flowers   | available | $64.99    | $114.99       | 54             | 39     | 7      | namesilo     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| out.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo        |
+| great.flowers | available | $64.99    | $114.99       | high           | low    | 5      | namesilo        |
+| air.flowers   | available | $64.99    | $114.99       | high           | medium | 3      | namesilo        |
+| bloom.flowers | resell    | —         | —             | high           | medium | 5      | Key-Systems LLC |
+| ally.flowers  | premium   | $2,660    | $2,660        | medium         | high   | 4      | namesilo        |
+| are.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo        |
+| bali.flowers  | premium   | $2,660    | $2,660        | medium         | medium | 4      | namesilo        |
+| ash.flowers   | available | $64.99    | $114.99       | medium         | low    | 3      | namesilo        |
+| bars.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| axe.flowers   | available | $64.99    | $114.99       | medium         | low    | 3      | namesilo        |
+| clay.flowers  | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
+| BJP.flowers   | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
+| club.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| box.flowers   | available | $159.98   | —             | medium         | high   | 3      | namecheap       |
+| core.flowers  | premium   | $2,800    | $2,800        | medium         | medium | 4      | namecheap       |
+| boy.flowers   | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
+| feet.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| btw.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo        |
+| laws.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| cry.flowers   | available | $159.98   | —             | high           | low    | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .flowers domains. The set spans clear dictionary-style terms, broad nouns, and more unusual words, as seen in examples such as tips.flowers, homes.flowers, ladies.flowers, and forces.flowers. For founders, the main question is whether the word feels memorable and commercially credible with the .flowers ending. For investors, the key is whether the ask leaves room for resale relative to how naturally the word pairs with this niche extension. With a median ask of 191.17, many names may look inexpensive, but quality still depends on relevance, clarity, and the risk of weak end-user demand.
+The .flowers extension hosts a wide range of one-word domain names, from common nouns like watches.flowers and pictures.flowers to brandable coinages like JollyRoger.flowers and coffeesenna.flowers. With a median asking price near $183 across 12,713 listings, this selection offers both budget-friendly options and standout names for founders and investors evaluating the .flowers space.
 
-- Check whether the word fits naturally with .flowers
-- Use 191.17 median ask as a price reality anchor
-- Favor clear, memorable words over awkward pairings
-- Review generic terms carefully for trademark risk
+- 12,713 .flowers domain names in this selection
+- Median asking price near $183 per domain
+- Mix of common words, brandable coinages, and niche terms
+- Updated daily to reflect current listings and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
