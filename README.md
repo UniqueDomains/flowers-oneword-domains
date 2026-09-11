@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .flowers one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,228 domains · **Median ask:** $134.40 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/flowers`
 **Best for:** founders, investors, studios
 
@@ -65,9 +65,6 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | out.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo        |
-| great.flowers | available | $64.99    | $114.99       | high           | low    | 5      | namesilo        |
-| clean.flowers | available | $64.99    | $114.99       | high           | low    | 5      | namesilo        |
-| cut.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo        |
 | air.flowers   | available | $64.99    | $114.99       | high           | medium | 3      | namesilo        |
 | bloom.flowers | resell    | —         | —             | high           | medium | 5      | Key-Systems LLC |
 | ally.flowers  | premium   | $2,660    | $2,660        | medium         | high   | 4      | namesilo        |
@@ -84,6 +81,9 @@ print(df.head())
 | BJP.flowers   | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
 | feet.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
 | box.flowers   | available | $159.98   | —             | medium         | high   | 3      | namecheap       |
+| laws.flowers  | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo        |
+| boy.flowers   | available | $159.98   | —             | medium         | low    | 3      | namecheap       |
+| ship.flowers  | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
