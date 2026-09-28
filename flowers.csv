@@ -3,6 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 800f7f2e-d73c-4bd2-8362-3b9b6c94a44f,obsequious.flowers,available,64.99,114.99,medium,low,10,namesilo,,,10/08/2026 19:44
 8b2dc7d9-a3ed-4031-966d-5dea0243fe1a,sickish.flowers,available,64.99,114.99,low,low,7,namesilo,,,03/09/2026 14:05
 93c116c1-9413-451d-bda7-63a3e5e5e751,helicopter.flowers,available,64.99,114.99,high,low,10,namesilo,,,25/09/2026 05:19
+24fbc93f-99e9-4a39-ac67-c97cf75c9204,horne.flowers,available,93.35,103.4,high,low,5,spaceship,,,27/09/2026 14:08
 4ea3620d-2bb0-452d-9ecc-d9bbbfe7d773,george.flowers,premium,832,832,high,medium,6,namesilo,,,25/09/2026 06:27
 820a0ec5-98bc-4a0a-b5c7-6d7bd30f776d,gradual.flowers,available,108.98,159.98,high,low,7,namecheap,,,20/08/2026 17:40
 97b8e482-550f-4952-9ac8-34b4c399807f,abruzzi.flowers,available,64.99,114.99,medium,low,7,namesilo,,,16/09/2026 17:28
@@ -33,16 +34,16 @@ c2ee63b2-2e6f-4a41-8b58-57e0de4b0f4c,numeral.flowers,available,64.99,114.99,high
 bf4eb37c-27eb-428a-a5a0-bdeb10a86c05,acronymous.flowers,available,64.99,114.99,medium,low,10,namesilo,,,
 045f5af4-34a7-4182-99ec-e565268f6818,learned.flowers,available,108.98,159.98,high,low,7,namecheap,,,23/09/2026 19:31
 bbc7664b-f003-42e8-84f4-67820c4d82be,tapped.flowers,available,64.99,114.99,high,low,6,namesilo,,,11/09/2026 08:19
-f58653f7-701b-4f28-a5ad-830eab650157,stocked.flowers,available,108.98,159.98,high,low,7,namecheap,,,10/09/2026 20:54
+f58653f7-701b-4f28-a5ad-830eab650157,stocked.flowers,available,108.98,159.98,medium,low,7,namecheap,,,10/09/2026 20:54
 2b0e3b4f-152b-4d0d-bc63-67be301398f9,nonpareil.flowers,available,64.99,114.99,high,low,9,namesilo,,,24/08/2026 17:02
 fec74e1a-11f5-4e33-846e-fa17bc14bf1f,momentum.flowers,available,159.98,,high,medium,8,namecheap,,,
-6ab48be4-38dd-4a4c-ab80-aa1ea8d30897,forbidding.flowers,available,64.99,114.99,high,low,10,namesilo,,,18/08/2026 11:08
+6ab48be4-38dd-4a4c-ab80-aa1ea8d30897,forbidding.flowers,available,64.99,114.99,medium,low,10,namesilo,,,18/08/2026 11:08
 a3d542ec-7a81-4c8a-9bf9-84111571a49a,relatives.flowers,available,64.99,114.99,medium,low,9,namesilo,,,27/09/2026 10:25
 39f9db60-bb9d-4d7c-80ce-08c28d80614c,florentine.flowers,available,64.99,114.99,high,low,10,namesilo,,,18/08/2026 08:58
-eee94d1f-8d08-4e2b-895e-0cc1723ca0ec,tried.flowers,available,64.99,114.99,high,low,5,namesilo,,,
+eee94d1f-8d08-4e2b-895e-0cc1723ca0ec,tried.flowers,available,100,100,high,low,5,cloudflare,,,28/09/2026 02:21
 15740254-5a1b-414e-8a76-052a6f9fdcda,verifying.flowers,available,108.98,159.98,high,low,9,namecheap,,,12/08/2026 20:56
 ed08feea-a118-4cb7-b15f-326b95ce6348,noisy.flowers,available,108.98,159.98,high,low,5,namecheap,,,03/09/2026 18:15
-fe2e0361-6a38-4a42-b368-d128dfb69e18,wriggling.flowers,available,64.99,114.99,high,low,9,namesilo,,,13/09/2026 13:41
+fe2e0361-6a38-4a42-b368-d128dfb69e18,wriggling.flowers,available,64.99,114.99,medium,low,9,namesilo,,,13/09/2026 13:41
 3cd28d23-9d3f-41e6-9158-dbcbb40bb6e6,western.flowers,available,64.99,114.99,high,low,7,namesilo,,,13/09/2026 10:56
 c60c3216-9913-4aac-b93e-c2ab21c2d662,gazillion.flowers,available,108.98,159.98,high,low,9,namecheap,,,11/09/2026 19:54
 e1b16223-2c5c-4c93-b75e-20726adc1dbd,vocative.flowers,available,64.99,114.99,medium,low,8,namesilo,,,13/09/2026 06:31
@@ -93,7 +94,7 @@ ea84200e-87f8-422b-9c37-c4b6f229c0f5,dumped.flowers,available,64.99,114.99,low,l
 e0426d2f-8807-4ec4-9c7a-c406856b4b24,uut.flowers,available,108.98,159.98,medium,low,3,namecheap,,,20/09/2026 22:17
 ee9c99f3-fdad-48a6-bc10-136850547175,credulous.flowers,available,64.99,114.99,medium,low,9,namesilo,,,13/08/2026 05:56
 2b3c8c42-8f86-48fd-be1e-b3d035599d7a,jutland.flowers,available,64.99,114.99,medium,low,7,namesilo,,,22/09/2026 15:18
-8f23596b-2b35-42a4-9edf-05ed8e44ffd4,shells.flowers,available,64.99,114.99,high,low,6,namesilo,,,19/09/2026 01:23
+8f23596b-2b35-42a4-9edf-05ed8e44ffd4,shells.flowers,available,64.99,114.99,medium,low,6,namesilo,,,19/09/2026 01:23
 d68f3c55-2ab4-4faf-9b2e-f90006f19a41,announces.flowers,available,64.99,114.99,medium,low,9,namesilo,,,21/09/2026 01:47
 43fa989b-7875-43c4-b8c0-d204e590e313,distributions.flowers,available,64.99,114.99,medium,low,13,namesilo,,,25/09/2026 21:52
 1310f370-9b28-4d6d-9614-3c460e41c486,casey.flowers,available,108.98,159.98,high,low,5,namecheap,,,25/09/2026 18:12
@@ -105,6 +106,7 @@ ff9d405c-9376-42c9-9601-f698d8e88386,venial.flowers,available,64.99,114.99,mediu
 46386e17-a2f7-44bc-9a05-279649c92b73,blessing.flowers,available,64.99,114.99,high,low,8,namesilo,,,06/08/2026 09:29
 15dc0781-d9c4-408a-a1a5-f520b0a1023e,alky.flowers,available,64.99,114.99,medium,low,4,namesilo,,,
 48f50e23-b8e8-47c4-98c8-a02be999bba2,faux.flowers,premium,832,832,high,low,4,namesilo,,,18/08/2026 00:12
+a648fb69-73db-46dc-9759-1e0d64e91bf7,emile.flowers,available,93.35,103.4,medium,low,5,spaceship,,,27/09/2026 13:23
 b8a4fbeb-0a0a-408a-b29f-fac6246ff496,bittern.flowers,available,64.99,114.99,medium,low,7,namesilo,,,23/09/2026 23:02
 364b6b36-6e35-4bba-905f-859bd19ea055,kudos.flowers,premium,2660,2660,high,low,5,namesilo,,,
 917359e4-96f1-40cd-aed5-8338ad9a20be,disgrace.flowers,available,64.99,114.99,high,low,8,namesilo,,,
@@ -120,12 +122,12 @@ ec412cbb-85be-477f-98dd-7bb62346247f,respectfully.flowers,available,64.99,114.99
 8f566548-a5c0-4ca8-9ffe-5d9a732cee17,wintery.flowers,available,64.99,114.99,medium,low,7,namesilo,,,13/09/2026 12:39
 4ce6bcf2-1277-4638-ab61-52cb427e1cf1,clever.flowers,available,108.98,159.98,high,medium,6,namecheap,,,23/09/2026 12:20
 08b3f671-7073-4e8c-9b46-567355eca7db,bedder.flowers,available,64.99,114.99,medium,low,6,namesilo,,,22/09/2026 23:13
-fcc3c91b-45e8-4175-90f1-056f45f17c63,cathodic.flowers,available,64.99,114.99,high,low,8,namesilo,,,11/08/2026 21:56
+fcc3c91b-45e8-4175-90f1-056f45f17c63,cathodic.flowers,available,64.99,114.99,medium,low,8,namesilo,,,11/08/2026 21:56
 f0053333-55fd-4482-b8d8-4c43107b716c,vibrate.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 39f1f43c-9fde-4a1e-986b-afa6f5e33846,ravioli.flowers,available,64.99,114.99,high,low,7,namesilo,,,24/09/2026 12:37
 1be7f6a2-e1cc-4d6b-83e3-e0fe5ed87ce3,anemometry.flowers,available,64.99,114.99,medium,low,10,namesilo,,,19/09/2026 05:18
 57e5785e-0512-4cf7-bf34-155f4855ce03,null.flowers,available,64.99,114.99,high,medium,4,namesilo,,,03/09/2026 22:27
-97293edf-f362-48bd-ad66-b2c6145a90c2,forbearing.flowers,available,64.99,114.99,high,low,10,namesilo,,,18/08/2026 10:57
+97293edf-f362-48bd-ad66-b2c6145a90c2,forbearing.flowers,available,64.99,114.99,medium,low,10,namesilo,,,18/08/2026 10:57
 6c4ae168-4f05-4977-aedf-11d0f1d3e448,iniquity.flowers,available,64.99,114.99,medium,low,8,namesilo,,,17/08/2026 15:08
 f76cf56f-2394-4f54-8ab5-4274d6fbfcb6,actin.flowers,available,108.98,159.98,medium,low,5,namecheap,,,17/09/2026 04:37
 4f8346a3-bf5c-4f83-90b8-ac5264a92260,particular.flowers,available,108.98,159.98,high,low,10,namecheap,,,24/09/2026 18:23
@@ -150,9 +152,9 @@ d63ca0b9-e418-4b6b-8774-96a51fea9757,dirty.flowers,available,64.99,114.99,high,l
 cd7698a5-404d-4770-ba89-86eba537811d,overhand.flowers,available,108.98,159.98,high,low,8,namecheap,,,04/09/2026 20:09
 2465711e-06b5-4746-8a6f-8c4c504d2e96,idyl.flowers,available,64.99,114.99,high,low,4,namesilo,,,08/09/2026 10:13
 66ed2e89-c95c-407f-84f9-0172cab91d52,tepid.flowers,available,64.99,114.99,medium,low,5,namesilo,,,20/08/2026 22:41
-daf441c0-7d3e-4a5a-9ae7-edc7f06b9277,taxonomic.flowers,available,64.99,114.99,high,low,9,namesilo,,,11/09/2026 09:30
+daf441c0-7d3e-4a5a-9ae7-edc7f06b9277,taxonomic.flowers,available,64.99,114.99,medium,low,9,namesilo,,,11/09/2026 09:30
 d4a02fa7-4b8f-4ff3-99b2-bbb0c631a2a3,fran.flowers,available,64.99,114.99,high,low,4,namesilo,,,
-3fd096db-40f0-4b94-a632-f99ab87b3a90,peirce.flowers,available,64.99,114.99,high,low,6,namesilo,,,23/09/2026 08:23
+3fd096db-40f0-4b94-a632-f99ab87b3a90,peirce.flowers,available,64.99,114.99,medium,low,6,namesilo,,,23/09/2026 08:23
 7aa24abd-2cf5-4b70-89d3-472b77e39826,continues.flowers,available,64.99,114.99,medium,low,9,namesilo,,,17/09/2026 13:29
 26f5b027-d8f3-4050-a2c9-2d166e0ef317,aimless.flowers,available,64.99,114.99,medium,low,7,namesilo,,,
 ae9c4a0d-94cb-4527-b202-03921ee1b7bb,hulky.flowers,available,64.99,114.99,medium,low,5,namesilo,,,21/08/2026 14:48
@@ -165,8 +167,9 @@ d292ee09-0d59-4468-ab7b-13e94ee0cc60,helped.flowers,available,108.98,159.98,medi
 ce8f6873-a657-4fa0-bb63-37619a5eb8d4,courageous.flowers,available,108.98,159.98,high,low,10,namecheap,,,23/09/2026 02:25
 e01b014d-acbe-4399-94e2-3039c1809bcf,zany.flowers,available,64.99,114.99,high,low,4,namesilo,,,11/08/2026 08:04
 8ffd4d45-de28-4a93-9c53-9e689621aa59,looking.flowers,available,64.99,114.99,high,low,7,namesilo,,,25/09/2026 14:19
+7a1d9f6b-3253-48cf-831c-ac3584db5fa8,chains.flowers,available,64.99,114.99,high,low,6,namesilo,,,27/09/2026 12:26
 549fa8a1-f351-4a2b-abb9-55b937071a40,shed.flowers,available,64.99,114.99,high,low,4,namesilo,,,23/09/2026 12:18
-ad221720-9f6c-4228-bd2d-1295ca341df1,lingual.flowers,available,64.99,114.99,high,low,7,namesilo,,,23/08/2026 15:07
+ad221720-9f6c-4228-bd2d-1295ca341df1,lingual.flowers,available,64.99,114.99,medium,low,7,namesilo,,,23/08/2026 15:07
 00e3a50a-b006-4319-93e3-46c339db67a7,managing.flowers,available,64.99,114.99,high,low,8,namesilo,,,
 f11fe9f0-4d89-495a-9fa0-4de40e01f92e,extralegal.flowers,available,108.98,159.98,medium,low,10,namecheap,,,17/08/2026 19:14
 1110c0db-7da8-4a4f-b11d-619b1a873490,vapourish.flowers,available,64.99,114.99,medium,low,9,namesilo,,,13/09/2026 01:13
@@ -185,11 +188,11 @@ eec4fc5e-52f8-4eee-965a-39578244efd4,vindicator.flowers,available,108.98,159.98,
 af6ac63a-404e-4feb-9e7b-095430a65936,bbs.flowers,available,108.98,159.98,high,low,3,namecheap,,,22/09/2026 18:34
 aa49873f-b227-4e76-8bb2-422ead590351,profitless.flowers,available,64.99,114.99,medium,low,10,namesilo,,,09/09/2026 02:50
 01c67d05-faf8-439f-88fa-99739d962a18,vigilance.flowers,available,64.99,114.99,high,low,9,namesilo,,,18/09/2026 05:28
-b142eac7-1bdb-4087-bb2d-7d41cfa00a65,sapphic.flowers,available,64.99,114.99,high,low,7,namesilo,,,23/08/2026 00:18
+b142eac7-1bdb-4087-bb2d-7d41cfa00a65,sapphic.flowers,available,64.99,114.99,medium,low,7,namesilo,,,23/08/2026 00:18
 36df3be9-0301-499e-af5f-58178d18a34f,darkly.flowers,available,64.99,114.99,medium,low,6,namesilo,,,14/09/2026 10:39
 bbd83ffe-6edd-4370-89bb-7f507eb08fe2,backspin.flowers,available,64.99,114.99,high,low,8,namesilo,,,21/09/2026 16:02
 4f6ccb5b-78da-4b0c-bc4f-47ae28cfabf5,undogmatic.flowers,available,64.99,114.99,medium,low,10,namesilo,,,18/08/2026 14:50
-b2c8cbf3-8543-4900-84fe-e0d772528bf9,alimentary.flowers,available,64.99,114.99,high,low,10,namesilo,,,
+b2c8cbf3-8543-4900-84fe-e0d772528bf9,alimentary.flowers,available,64.99,114.99,medium,low,10,namesilo,,,
 5f5509c9-90e0-4cd9-9c23-65571e44abde,abstinence.flowers,available,108.98,159.98,high,low,10,namecheap,,,16/09/2026 18:24
 d84ecf9d-519a-4902-8118-4cb7ceb8afda,regulatory.flowers,available,64.99,114.99,high,low,10,namesilo,,,09/09/2026 13:17
 60ccddcc-1a61-41ee-bd36-e6bd9f4fa692,suicide.flowers,premium,2660,2660,high,low,7,namesilo,,,25/09/2026 05:57
@@ -201,7 +204,7 @@ b786dd17-36b3-4f3f-b08d-19ae871623a2,bipolar.flowers,available,64.99,114.99,high
 8a63b2b3-9073-4d24-8521-dd48e86ca6e8,muddy.flowers,available,64.99,114.99,high,low,5,namesilo,,,10/08/2026 17:08
 8de5bff3-cba6-4bf6-b8bd-45cbe8b93acb,until.flowers,available,64.99,114.99,medium,low,5,namesilo,,,
 f1784f2e-f42a-4bb4-a814-e6af4eddaf07,blacklist.flowers,available,108.98,159.98,high,low,9,namecheap,,,24/09/2026 00:17
-d0aff888-7c44-41a9-97e2-2227bf587b08,stony.flowers,available,64.99,114.99,high,low,5,namesilo,,,10/08/2026 21:45
+d0aff888-7c44-41a9-97e2-2227bf587b08,stony.flowers,available,64.99,114.99,medium,low,5,namesilo,,,10/08/2026 21:45
 cece7083-794d-4d42-805c-bd6aeba23d90,roue.flowers,available,64.99,114.99,medium,low,4,namesilo,,,09/09/2026 02:53
 560e6aba-25a9-4ea1-b833-5fbd43d6980f,ammonium.flowers,available,299.99,299.99,high,low,8,name.com,,,18/09/2026 22:10
 24590bdf-5dba-423b-a727-5b373040117a,formalise.flowers,available,64.99,114.99,high,low,9,namesilo,,,
@@ -227,7 +230,7 @@ bc87fd61-c3ab-49de-804f-1e26e6e80117,diversely.flowers,available,64.99,114.99,me
 fd91276a-0bba-4361-8eed-528c1a0d8726,faithless.flowers,available,108.98,159.98,medium,low,9,namecheap,,,17/08/2026 21:14
 94201004-955d-4093-87e0-ab2caabad912,eventide.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/08/2026 14:48
 216053f7-41a1-47e1-b4f3-376fc5977f19,crown.flowers,available,64.99,114.99,high,medium,5,namesilo,,,24/09/2026 19:47
-a706dc0e-a922-4901-838b-62fe028f813b,foldaway.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/08/2026 10:07
+a706dc0e-a922-4901-838b-62fe028f813b,foldaway.flowers,available,64.99,114.99,medium,low,8,namesilo,,,18/08/2026 10:07
 c38a760f-4ce0-4958-9703-b6540e2d1a74,aeneas.flowers,available,108.98,159.98,medium,low,6,namecheap,,,17/09/2026 12:27
 641a9177-0953-475e-a2fa-96fcb2554050,depot.flowers,available,64.99,114.99,high,low,5,namesilo,,,11/09/2026 11:49
 b4c4d1ad-d8bf-4e3b-a27c-32ad7eb5557f,jerky.flowers,available,64.99,114.99,high,low,5,namesilo,,,06/08/2026 22:03
@@ -246,14 +249,17 @@ b295fd26-dc61-4a42-b34b-f6a830285c51,environment.flowers,available,108.98,159.98
 d86e1ac2-2a1b-4d0d-8ce4-078f62f7eaad,cyclist.flowers,available,64.99,114.99,high,low,7,namesilo,,,23/09/2026 13:21
 c4a34ee6-71bc-42b8-ac2d-306add0e639f,advil.flowers,available,108.98,159.98,medium,low,5,namecheap,,,17/09/2026 11:20
 7d8c4530-7b97-49c0-8a57-e0d48c6f3742,cloning.flowers,available,64.99,114.99,high,low,7,namesilo,,,24/09/2026 15:52
+9caa3801-5640-42b7-b2c1-ae2731ba6354,nellie.flowers,available,64.99,114.99,high,low,6,namesilo,,,27/09/2026 18:29
 f82412da-6567-4ffb-91fb-b99e7f9459c7,antipode.flowers,available,64.99,114.99,medium,low,8,namesilo,,,19/09/2026 14:58
 79b8d0d6-66e0-4373-87fb-e9a2c4bd21f4,agrestic.flowers,available,108.98,159.98,medium,low,8,namecheap,,,
-4a023135-ce74-4711-8413-71f7ec3b3839,opportune.flowers,available,64.99,114.99,high,low,9,namesilo,,,04/09/2026 16:43
+4a023135-ce74-4711-8413-71f7ec3b3839,opportune.flowers,available,64.99,114.99,medium,low,9,namesilo,,,04/09/2026 16:43
 ddd3911d-883a-4749-842a-c65e2c0df45f,packages.flowers,available,299.99,299.99,high,low,8,name.com,,,19/09/2026 00:23
 0b2db3b4-f747-4ddb-9b52-e3498285dd16,poke.flowers,available,64.99,114.99,high,low,4,namesilo,,,22/08/2026 18:45
-688e2b24-0079-4269-a34b-b957ff5050f8,gustav.flowers,available,108.98,159.98,high,low,6,namecheap,,,25/09/2026 21:40
+688e2b24-0079-4269-a34b-b957ff5050f8,gustav.flowers,available,108.98,159.98,medium,low,6,namecheap,,,25/09/2026 21:40
+2607173a-643a-402f-bfc3-3e06549fd48e,depth.flowers,available,108.98,159.98,high,low,5,namecheap,,,28/09/2026 01:46
 b1754b29-d39f-4b18-9df0-cd28d3221bf1,month.flowers,premium,832,832,high,low,5,namesilo,,,
 cd8f308f-1576-4dae-8d24-081b361496a2,reclusive.flowers,available,64.99,114.99,medium,low,9,namesilo,,,09/09/2026 11:40
+ed71a649-3799-4d5c-8cb1-2201d1adeced,robinson.flowers,available,100,100,high,low,8,cloudflare,,,27/09/2026 13:17
 93e53982-c511-4854-8e41-5ee14201d60c,fermium.flowers,available,64.99,114.99,medium,low,7,namesilo,,,20/09/2026 21:55
 a8b5ad4e-e54e-4e75-af44-0e07b4179ba7,furtive.flowers,available,64.99,114.99,medium,low,7,namesilo,,,08/08/2026 06:32
 dcb8313f-0d3d-4e45-9c4c-01a1d454df27,resources.flowers,available,64.99,114.99,high,low,9,namesilo,,,
@@ -281,6 +287,7 @@ dc35d310-bc16-404a-acb1-ef166ccb819a,tux.flowers,available,64.99,114.99,high,low
 b572fa83-5789-4b0f-b0c0-dae03185c28c,jugular.flowers,available,64.99,114.99,medium,low,7,namesilo,,,22/08/2026 14:16
 2579ddd9-154b-44f4-9b85-666a55a6041b,literal.flowers,available,108.98,159.98,high,low,7,namecheap,,,25/09/2026 13:58
 b83e32d1-53ea-48aa-b3b8-e88f3c13974c,adviser.flowers,available,64.99,114.99,high,low,7,namesilo,,,
+b204a39c-ba6f-4e47-8e7d-526c292d44af,marching.flowers,available,93.35,103.4,high,low,8,spaceship,,,28/09/2026 02:19
 2a12b323-de45-45c3-a0f4-f5df27e7f406,insipid.flowers,available,64.99,114.99,medium,low,7,namesilo,,,10/08/2026 12:59
 ba90523f-2278-4296-8b40-3f66dbf54fd3,discoverer.flowers,available,64.99,114.99,high,low,10,namesilo,,,20/09/2026 11:37
 2d423ea7-f53b-40d5-9162-2c392ce60d0b,bitt.flowers,available,108.98,159.98,medium,low,4,namecheap,,,23/09/2026 22:49
@@ -288,10 +295,10 @@ ba90523f-2278-4296-8b40-3f66dbf54fd3,discoverer.flowers,available,64.99,114.99,h
 9e31d7d6-4955-4674-975d-eefbdc6b02a2,vet.flowers,available,64.99,114.99,high,low,3,namesilo,,,13/09/2026 05:01
 5390e65b-57f9-4bc6-8378-55df47e5f8a8,vaginal.flowers,available,64.99,114.99,medium,low,7,namesilo,,,13/09/2026 00:49
 32ea079e-07ed-4bcd-859a-b545722f100b,logistic.flowers,available,64.99,114.99,high,low,8,namesilo,,,24/08/2026 08:52
-a82fdb69-ff54-4540-8e92-6d44b236d2f0,checkered.flowers,available,64.99,114.99,high,low,9,namesilo,,,12/08/2026 03:38
+a82fdb69-ff54-4540-8e92-6d44b236d2f0,checkered.flowers,available,64.99,114.99,medium,low,9,namesilo,,,12/08/2026 03:38
 562f5b3e-3cb8-4012-b254-525af4490550,atavism.flowers,available,64.99,114.99,medium,low,7,namesilo,,,20/09/2026 19:45
 4cdcf2dc-f5bb-4878-803b-9e9a9cf2b0e7,spontaneous.flowers,available,64.99,114.99,high,low,11,namesilo,,,
-1e8c4656-aee9-49ce-b890-d55bbfacec9d,ebooks.flowers,available,64.99,114.99,high,low,6,namesilo,,,18/09/2026 08:29
+1e8c4656-aee9-49ce-b890-d55bbfacec9d,ebooks.flowers,available,64.99,114.99,medium,low,6,namesilo,,,18/09/2026 08:29
 d4f6b5e3-4e75-4c36-bb9d-acec75dccbb8,olivier.flowers,available,64.99,114.99,high,low,7,namesilo,,,22/09/2026 07:16
 124a03ec-7012-45c5-bee0-ea3ca7d87fa4,shag.flowers,available,64.99,114.99,medium,low,4,namesilo,,,18/08/2026 17:33
 b5217cb6-6696-4c49-ae01-a33bcc8c63aa,burial.flowers,available,64.99,114.99,medium,low,6,namesilo,,,24/09/2026 11:18
@@ -303,7 +310,8 @@ d1365ddf-e784-4606-82d8-c7fe97ed15bb,annotating.flowers,available,64.99,114.99,m
 81ec4c92-6a6c-49cb-a125-09fa3db0b365,incumbent.flowers,available,64.99,114.99,high,low,9,namesilo,,,22/08/2026 02:03
 cce6f4d9-811c-45b4-a01e-a51bc00290e1,binomial.flowers,available,64.99,114.99,high,low,8,namesilo,,,10/08/2026 00:30
 a345bf39-6e17-4fd1-914d-dba0feddd7a3,rooms.flowers,available,64.99,114.99,high,low,5,namesilo,,,
-1e441895-28f4-4311-a5f1-5ffd458b232c,raspberry.flowers,available,64.99,114.99,high,low,9,namesilo,,,24/09/2026 06:43
+1e441895-28f4-4311-a5f1-5ffd458b232c,raspberry.flowers,available,64.99,114.99,medium,low,9,namesilo,,,24/09/2026 06:43
+13ba94e3-1bf8-410e-93ef-906c045cb37a,zeus.flowers,available,64.99,114.99,high,medium,4,namesilo,,,28/09/2026 01:59
 680e007b-8c5d-4184-a3c7-574b4f565c79,erupt.flowers,available,64.99,114.99,high,low,5,namesilo,,,
 6823c987-bdea-440f-ab44-c6bc24d73b24,fecal.flowers,available,64.99,114.99,medium,low,5,namesilo,,,17/08/2026 20:38
 886ad7d9-9804-4580-bdb6-e89382ec302c,boxer.flowers,available,64.99,114.99,high,low,5,namesilo,,,23/09/2026 06:29
@@ -323,6 +331,7 @@ cf1c3ef5-68be-4884-bbf8-7a0d54009368,calculator.flowers,available,64.99,114.99,h
 e276dac7-87e0-4598-b77a-f36afc4e017b,sterilization.flowers,available,64.99,114.99,high,low,13,namesilo,,,16/09/2026 21:54
 860b5caa-b069-44ea-823c-fce84fe5acd6,stoppers.flowers,available,108.98,159.98,medium,low,8,namecheap,,,20/09/2026 12:45
 2982505a-6057-4b70-9858-70f4ff590810,adviseable.flowers,available,64.99,114.99,high,low,10,namesilo,,,
+de9980b6-13a7-4a3e-ba9d-fac7db8a4363,convicted.flowers,available,64.99,114.99,medium,low,9,namesilo,,,27/09/2026 23:23
 a5e0b172-83a0-4032-af18-d9a93eb3e600,oceanic.flowers,available,64.99,114.99,high,medium,7,namesilo,,,04/09/2026 00:26
 12b19a1a-6286-49d5-ad87-b3e15ce25329,dixon.flowers,available,64.99,114.99,medium,low,5,namesilo,,,25/09/2026 17:44
 de546901-824e-43e8-aac8-fb474785ec41,emoji.flowers,available,64.99,114.99,high,low,5,namesilo,,,
@@ -330,7 +339,7 @@ dab23cf8-f519-4d06-b99d-ba546f688f9b,figure.flowers,available,108.98,159.98,high
 ccd767ed-1e33-4f6b-bec3-aa72f5f9fe65,benign.flowers,available,64.99,114.99,medium,low,6,namesilo,,,09/08/2026 14:36
 62d1b2a3-1b09-4ef9-8593-90635edaf95b,clubbish.flowers,available,64.99,114.99,low,low,8,namesilo,,,12/08/2026 12:59
 82796c78-98a7-46dd-94f2-fb3aaaee56ae,aragon.flowers,available,64.99,114.99,high,low,6,namesilo,,,19/09/2026 23:42
-666e590d-9197-4afd-9928-a7c4a6d53e82,lav.flowers,available,64.99,114.99,high,low,3,namesilo,,,09/09/2026 02:16
+666e590d-9197-4afd-9928-a7c4a6d53e82,lav.flowers,available,64.99,114.99,medium,low,3,namesilo,,,09/09/2026 02:16
 0ea0c61a-da72-4b52-a30c-118d11d52b00,altitude.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/09/2026 14:29
 110a2f08-6db5-4e40-aac3-de7fc76e6b84,aqua.flowers,premium,2660,2660,high,medium,4,namesilo,,,19/09/2026 22:48
 a671d9dd-d08d-415f-91d9-533441859f10,marvellous.flowers,available,108.98,159.98,high,low,10,namecheap,,,25/09/2026 00:14
@@ -344,8 +353,9 @@ fa277902-f6a3-47bb-baa5-a534cb13922e,origin.flowers,premium,2600,2600,high,low,6
 f7c9e22c-83b7-454f-92d5-1bfcbd7c42f3,sluggish.flowers,available,64.99,114.99,medium,low,8,namesilo,,,10/09/2026 11:29
 e1ae4126-cfe2-4feb-bf22-4dd505d477d1,dryness.flowers,available,64.99,114.99,high,low,7,namesilo,,,24/09/2026 22:51
 87370bb3-4bd6-4315-9ba1-143a339ebcc9,sousaphone.flowers,available,108.98,159.98,medium,low,10,namecheap,,,22/09/2026 11:51
+269effc0-6383-4465-96fd-87c5030a64d9,mccall.flowers,available,93.35,103.4,medium,low,6,spaceship,,,27/09/2026 21:08
 df8fdb58-f5d0-4109-91a5-3cb51bf2f028,acme.flowers,available,108.98,159.98,high,medium,4,namecheap,,,24/08/2026 20:47
-137fc4f3-38f7-4582-946c-b73084470c25,formulary.flowers,available,64.99,114.99,high,low,9,namesilo,,,18/08/2026 12:20
+137fc4f3-38f7-4582-946c-b73084470c25,formulary.flowers,available,64.99,114.99,medium,low,9,namesilo,,,18/08/2026 12:20
 92792b07-67a0-4ef3-a7bf-d267391ec1ad,dastard.flowers,available,299.99,299.99,medium,low,7,name.com,,,13/08/2026 18:32
 8bb5f872-48e3-44c2-adb2-d0e8666616af,political.flowers,available,64.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
 79fbf76d-4ede-4c0b-b1b3-26fba538e502,silvery.flowers,available,108.98,159.98,high,low,7,namecheap,,,06/08/2026 17:56
@@ -366,10 +376,10 @@ f992f0d5-0eb7-4314-be97-a90a567b770c,affinity.flowers,available,64.99,114.99,hig
 3fdc84fd-2e91-45c7-9e02-889596b975f4,possibly.flowers,available,159.98,,high,low,8,namecheap,,,
 0fd73202-f811-433d-ae11-c368fe56830a,factitious.flowers,available,108.98,159.98,medium,low,10,namecheap,,,17/08/2026 20:27
 a4f4a51e-9f2a-4371-830c-5db86a9ab460,learning.flowers,available,108.98,159.98,high,low,8,namecheap,,,27/09/2026 01:54
-ec249ccc-191b-49e5-a79b-21d75884cfcb,vacant.flowers,available,64.99,114.99,high,low,6,namesilo,,,13/09/2026 00:38
+ec249ccc-191b-49e5-a79b-21d75884cfcb,vacant.flowers,available,64.99,114.99,medium,low,6,namesilo,,,13/09/2026 00:38
 43cd4fdf-5aef-4b6a-b6ab-c13cd688e420,canola.flowers,available,64.99,114.99,high,low,6,namesilo,,,24/09/2026 12:06
-30eb64f0-98ef-4bea-9ab6-d2b4744c96e0,rounds.flowers,available,64.99,114.99,high,low,6,namesilo,,,27/09/2026 02:23
-1d61f0a5-91ea-4978-a4cc-e0e182b52c45,abenaki.flowers,available,64.99,114.99,high,low,7,namesilo,,,
+30eb64f0-98ef-4bea-9ab6-d2b4744c96e0,rounds.flowers,available,64.99,114.99,medium,low,6,namesilo,,,27/09/2026 02:23
+1d61f0a5-91ea-4978-a4cc-e0e182b52c45,abenaki.flowers,available,64.99,114.99,medium,low,7,namesilo,,,
 a04bf3a4-4b41-4357-83d6-cee88defc633,odor.flowers,available,64.99,114.99,high,low,4,namesilo,,,20/09/2026 08:25
 cd968b43-48ea-477f-afd1-3bff4d1f92b2,rurally.flowers,available,64.99,114.99,medium,low,7,namesilo,,,16/09/2026 00:20
 0334be14-b0f7-4b9b-90a1-8f2c92ebbcba,streaming.flowers,available,64.99,114.99,high,low,9,namesilo,,,24/09/2026 02:31
@@ -387,7 +397,7 @@ fcc34bfa-4172-4464-b334-a909423e4149,sequel.flowers,available,64.99,114.99,high,
 0c3a99d2-9185-4066-a052-ccd2e915abde,babylonian.flowers,available,64.99,114.99,medium,low,10,namesilo,,,08/08/2026 03:58
 3ebd2564-426e-4148-9bf9-b2a17caaaf8e,jason.flowers,available,64.99,114.99,high,low,5,namesilo,,,
 fb7be4cc-6f6c-48d5-a339-4dcd10e8d12d,though.flowers,available,64.99,114.99,medium,low,6,namesilo,,,16/09/2026 08:58
-49271003-2cbc-4652-afd1-34d9567e45ad,quenched.flowers,available,64.99,114.99,high,low,8,namesilo,,,09/09/2026 08:25
+49271003-2cbc-4652-afd1-34d9567e45ad,quenched.flowers,available,64.99,114.99,medium,low,8,namesilo,,,09/09/2026 08:25
 a1454c80-92df-4f6d-8677-485b394c2eeb,reflexed.flowers,available,64.99,114.99,high,medium,8,namesilo,,,09/09/2026 12:41
 76283c6c-da8b-4936-9775-4c2828ab10c4,discharged.flowers,available,64.99,114.99,medium,low,10,namesilo,,,14/08/2026 09:49
 a0211aa6-f2f7-404b-b755-fc836900df59,tent.flowers,available,64.99,114.99,high,low,4,namesilo,,,11/08/2026 15:59
@@ -401,7 +411,7 @@ be118449-e448-4ca1-bdce-a82c1aefb042,brawny.flowers,available,64.99,114.99,high,
 c48a6842-3922-41de-8ea8-828206dde020,grouping.flowers,available,159.98,,high,low,8,namecheap,,,
 7fc588bb-f62a-48ca-93f9-f6793f216d61,saturnine.flowers,available,64.99,114.99,medium,low,9,namesilo,,,20/08/2026 15:03
 0fc4af07-fb38-4af2-b1e0-411429d09ef9,arboreous.flowers,available,64.99,114.99,medium,low,9,namesilo,,,06/08/2026 12:59
-8dd569f6-590d-453f-9d8e-50c78a31c0c7,devonian.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/09/2026 16:49
+8dd569f6-590d-453f-9d8e-50c78a31c0c7,devonian.flowers,available,64.99,114.99,medium,low,8,namesilo,,,17/09/2026 16:49
 a29fb26f-192f-4e46-a681-a48045f4982a,modeling.flowers,available,108.98,159.98,high,low,8,namecheap,,,24/09/2026 15:25
 fb120760-58c1-425c-bc70-df35f799af93,dearie.flowers,available,299.99,299.99,high,low,6,name.com,,,13/08/2026 18:19
 fdc2c943-5f3d-49aa-a5d2-b0f5ffcde28b,blackmailing.flowers,available,64.99,114.99,medium,low,12,namesilo,,,
@@ -410,9 +420,11 @@ f54a21ad-dbaa-4921-b2f7-cf0ece5fb364,gangling.flowers,available,108.98,159.98,me
 69d83c9d-088c-4771-a17a-71cb80bbd315,revenue.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 25565305-8af8-4ca3-80d1-28788f068be4,spectre.flowers,available,64.99,114.99,high,low,7,namesilo,,,08/09/2026 18:42
 78032e02-9547-4db6-8b37-d4e72438bdd8,attached.flowers,available,64.99,114.99,high,low,8,namesilo,,,
+aea53796-a324-46b9-b7ec-0c62904c9812,suggesting.flowers,available,93.35,103.4,high,low,10,spaceship,,,27/09/2026 17:56
 32ca09f5-75dd-426a-89d5-804e922cc2bc,bioko.flowers,available,108.98,159.98,medium,low,5,namecheap,,,23/09/2026 18:17
 32f3bdaa-48f0-41d8-ba09-dc488c9d2fb4,birretta.flowers,available,64.99,114.99,medium,low,8,namesilo,,,23/09/2026 10:09
 1d8f1e55-9fbb-4364-8701-cc8e373904b6,wiley.flowers,premium,845,845,high,low,5,namecheap,,,27/09/2026 08:05
+b155eaab-251c-48d2-9b37-87dbd2389c6b,therapist.flowers,available,64.99,114.99,high,low,9,namesilo,,,28/09/2026 02:06
 f4759972-edd0-4337-ae84-58e6ca8e096b,gabonese.flowers,available,108.98,159.98,medium,low,8,namecheap,,,18/08/2026 19:24
 4fbd50e5-c85c-4f84-a0b5-a4ecafb5ab5a,abacus.flowers,available,64.99,114.99,high,low,6,namesilo,,,16/09/2026 13:45
 ecb44e37-eb3a-4ab5-8975-074082b0f1a0,asat.flowers,available,64.99,114.99,medium,low,4,namesilo,,,05/08/2026 19:31
@@ -420,7 +432,7 @@ f0486f39-bb51-4abd-8f3f-ea7f8c1f6d3e,torres.flowers,premium,2660,2660,high,high,
 022c91bb-d432-404e-9e49-3a3c869d6c5a,henry.flowers,premium,832,832,high,low,5,namesilo,,,25/09/2026 07:16
 26528b84-0d29-4be2-bfaf-ef7d8215139f,clannish.flowers,available,64.99,114.99,medium,low,8,namesilo,,,12/08/2026 09:35
 b655f317-b4cc-4e89-998d-f471d7f7fdaa,tasks.flowers,available,64.99,114.99,high,low,5,namesilo,,,
-20f1a428-799c-42b9-b71d-1b12d359f791,acanthus.flowers,available,108.98,159.98,high,low,8,namecheap,,,16/09/2026 21:02
+20f1a428-799c-42b9-b71d-1b12d359f791,acanthus.flowers,available,108.98,159.98,medium,low,8,namecheap,,,16/09/2026 21:02
 08fe57a1-1b77-44fc-b602-d7e2953d75f5,despise.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 56ffaf6c-ec74-4383-992c-d775fe168784,investors.flowers,available,64.99,114.99,high,low,9,namesilo,,,
 0c48a7bd-3244-4b2b-bf90-fbf00e83fd3a,vales.flowers,available,108.98,159.98,medium,low,5,namecheap,,,21/09/2026 02:12
@@ -442,14 +454,14 @@ b4e014b4-40f9-4a90-8f34-d117e4a094d8,anergy.flowers,available,64.99,114.99,mediu
 9efa15ac-6e03-4116-ac64-89146c5510cb,anecdotal.flowers,available,64.99,114.99,high,low,9,namesilo,,,
 c36f7a2d-8eda-437a-8d8e-9595dd2d1c03,physic.flowers,available,64.99,114.99,high,low,6,namesilo,,,05/08/2026 22:25
 ac2c45c8-23bb-439b-850c-f4e8c87dcc8b,abdomen.flowers,available,64.99,114.99,high,low,7,namesilo,,,16/09/2026 14:45
-d9922f04-462c-47f9-bc5b-2e180f6cdc8d,unbranded.flowers,available,64.99,114.99,high,low,9,namesilo,,,12/09/2026 04:29
+d9922f04-462c-47f9-bc5b-2e180f6cdc8d,unbranded.flowers,available,64.99,114.99,medium,low,9,namesilo,,,12/09/2026 04:29
 449addc2-9af7-4949-bcde-647735b074f1,kurt.flowers,available,64.99,114.99,high,low,4,namesilo,,,25/09/2026 13:27
 48f0cade-59f7-4d78-973f-a41ebce690de,polyphase.flowers,available,64.99,114.99,medium,low,9,namesilo,,,03/09/2026 10:52
 a404337a-6d19-4213-95e1-5bdb668eada0,commentate.flowers,available,64.99,114.99,high,low,10,namesilo,,,
 823efd11-4f45-4c38-868f-d80b5800d006,urbanely.flowers,available,64.99,114.99,medium,low,8,namesilo,,,16/09/2026 10:27
 b405feca-c85a-42af-8481-3eba61339321,lysogenic.flowers,available,64.99,114.99,medium,low,9,namesilo,,,24/08/2026 12:42
-d16a28d2-4654-4644-8c81-eeea430797d5,bale.flowers,available,64.99,114.99,high,low,4,namesilo,,,21/09/2026 21:49
-81e9ff2d-c7cd-4b5b-a8fe-9f27ec7d2eba,ventolin.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/09/2026 03:33
+d16a28d2-4654-4644-8c81-eeea430797d5,bale.flowers,available,64.99,114.99,medium,low,4,namesilo,,,21/09/2026 21:49
+81e9ff2d-c7cd-4b5b-a8fe-9f27ec7d2eba,ventolin.flowers,available,64.99,114.99,medium,low,8,namesilo,,,18/09/2026 03:33
 1e901efa-dcc0-4589-a72d-e7bd0e16db43,annoying.flowers,available,108.98,159.98,high,low,8,namecheap,,,22/09/2026 05:19
 12ebc053-c8ac-42f9-89de-582c751a650e,puddings.flowers,available,108.98,159.98,medium,low,8,namecheap,,,19/09/2026 22:22
 0660c2e8-a6f2-4cc6-b926-b28a15facd31,canadian.flowers,available,64.99,114.99,high,low,8,namesilo,,,23/09/2026 12:40
@@ -458,11 +470,11 @@ d16a28d2-4654-4644-8c81-eeea430797d5,bale.flowers,available,64.99,114.99,high,lo
 f491b61f-ae7d-401a-ab87-ba1d76ef0984,anthyllis.flowers,available,64.99,114.99,medium,low,9,namesilo,,,19/09/2026 14:04
 50ac4ad4-5f01-4f8b-9e88-199e009341bf,greek.flowers,available,64.99,114.99,high,low,5,namesilo,,,08/09/2026 07:29
 6e6e07a1-8891-4dfc-a709-0a2ad9d701d7,engrossing.flowers,available,64.99,114.99,high,low,10,namesilo,,,
-7bef995a-d5af-4e51-91f0-f300004346fa,iphone.flowers,premium,2660,2660,high,high,6,namesilo,,,
+7bef995a-d5af-4e51-91f0-f300004346fa,iphone.flowers,premium,2660,2660,high,high,6,namesilo,,,28/09/2026 02:21
 4f3facd1-3648-4139-8792-e1754d1391c7,sympathetic.flowers,available,64.99,114.99,high,low,11,namesilo,,,
 f3801048-550e-4eb0-b513-c43daaec3508,cause.flowers,available,64.99,114.99,high,low,5,namesilo,,,24/09/2026 13:11
 683f8eb4-9298-4462-a6ce-7172b3262863,empyreal.flowers,available,64.99,114.99,medium,low,8,namesilo,,,16/08/2026 20:53
-3f40494b-19d5-4116-bcd4-1d996b7171ed,unmanned.flowers,available,64.99,114.99,high,low,8,namesilo,,,09/09/2026 13:50
+3f40494b-19d5-4116-bcd4-1d996b7171ed,unmanned.flowers,available,64.99,114.99,medium,low,8,namesilo,,,09/09/2026 13:50
 42e6c552-143f-43a4-b01d-7de1ecff4199,ariose.flowers,available,64.99,114.99,medium,low,6,namesilo,,,06/08/2026 19:19
 71db72cf-8bcc-49ab-82ab-89d2b7ef4ebc,stormproof.flowers,available,108.98,159.98,medium,low,10,namecheap,,,10/09/2026 21:24
 22c9d766-e31f-4cdf-ba88-aab81ea20358,collapsing.flowers,available,64.99,114.99,low,low,10,namesilo,,,20/09/2026 17:39
@@ -474,15 +486,16 @@ ee054ac5-1906-4365-94d7-2bc8d2a479c6,twitter.flowers,premium,2660,2660,high,low,
 421d7f9e-4753-4707-906c-c04dfe3e92ed,geared.flowers,available,108.98,159.98,high,low,6,namecheap,,,18/08/2026 20:59
 c200093d-55aa-425c-a0f4-a06dd1548917,teased.flowers,available,64.99,114.99,medium,low,6,namesilo,,,11/09/2026 09:55
 6419f1e4-85c3-4c17-8f3a-e1fe7c08b411,jenny.flowers,premium,832,832,high,low,5,namesilo,,,
+95f2b714-9947-45b3-990b-ffadc0be8be3,porter.flowers,premium,832,832,high,low,6,namesilo,,,28/09/2026 01:41
 6a2868c3-88ef-4c17-b319-5e57a9c3ef46,zinc.flowers,available,108.98,159.98,high,low,4,namecheap,,,20/09/2026 22:44
-eb9552de-385a-4edf-b283-156bc4942e67,pros.flowers,available,64.99,114.99,high,low,4,namesilo,,,20/09/2026 10:26
+eb9552de-385a-4edf-b283-156bc4942e67,pros.flowers,available,64.99,114.99,medium,low,4,namesilo,,,20/09/2026 10:26
 53186b09-7361-4f21-bd9f-487d10133025,bonhomie.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/09/2026 13:57
 81bfdd7d-75d0-43b3-8c8e-505041152d0f,juice.flowers,available,64.99,114.99,high,low,5,namesilo,,,
 8f458038-cb5e-4c3c-b10e-ad675f8399aa,apis.flowers,available,64.99,114.99,high,medium,4,namesilo,,,19/09/2026 17:28
 150eda1f-c6da-4a43-a114-7c5a1efdabdd,cybernetic.flowers,available,64.99,114.99,high,low,10,namesilo,,,19/09/2026 11:38
 6034be25-0d3d-44c0-a210-4eb5628ff710,rosaceous.flowers,available,108.98,159.98,high,medium,9,namecheap,,,09/09/2026 18:39
 7c8c5415-2c8f-4c4a-b7c1-c24071ba2703,divorce.flowers,premium,2600,2600,high,low,7,namecheap,,,14/08/2026 11:12
-d2809980-3d3b-45b6-a817-7fbaf1f80ac1,lois.flowers,available,64.99,114.99,high,low,4,namesilo,,,25/09/2026 15:30
+d2809980-3d3b-45b6-a817-7fbaf1f80ac1,lois.flowers,available,64.99,114.99,medium,low,4,namesilo,,,25/09/2026 15:30
 07ce9ba8-7dac-4551-a1ee-d7dfeb7fe353,burnable.flowers,available,64.99,114.99,medium,low,8,namesilo,,,11/08/2026 10:44
 1c603ec0-2011-4be5-a010-297eecfbae1a,presumable.flowers,available,64.99,114.99,high,medium,10,namesilo,,,09/09/2026 01:45
 52212189-1bb4-4e6a-9dfa-911de7b5a267,agha.flowers,available,64.99,114.99,medium,low,4,namesilo,,,17/09/2026 15:59
@@ -492,31 +505,32 @@ fa4de5f2-f122-4b32-977b-e523fbb5d1a3,sunbelt.flowers,available,159.98,,high,low,
 290ef665-f7ac-40fd-bbe0-0a10f330ae99,envisioned.flowers,available,64.99,114.99,high,low,10,namesilo,,,24/09/2026 14:18
 043a346a-10a3-4484-8951-f956ae662499,napped.flowers,available,64.99,114.99,medium,low,6,namesilo,,,18/08/2026 07:44
 517431b1-d40f-4b5b-8cdf-ba459adf293b,others.flowers,available,64.99,114.99,high,low,6,namesilo,,,25/09/2026 16:48
-feb0612b-f68d-4662-9f31-881c388a9ac7,revealing.flowers,available,159.98,,high,low,9,namecheap,,,
+feb0612b-f68d-4662-9f31-881c388a9ac7,revealing.flowers,available,64.99,114.99,high,low,9,namesilo,,,27/09/2026 13:41
 541cf5c8-d4c0-49de-9da7-7dee9ebe07ce,receives.flowers,available,108.98,159.98,medium,low,8,namecheap,,,18/09/2026 17:46
+9bc43d56-7085-495b-8b32-060da075d394,cigar.flowers,available,64.99,114.99,high,low,5,namesilo,,,28/09/2026 01:40
 2ebb16e5-7bf3-4f96-aa0e-27bf7261f1d7,delegate.flowers,available,108.98,159.98,high,low,8,namecheap,,,24/09/2026 21:30
 263252b7-27d3-449e-be6a-090202913098,habitue.flowers,available,64.99,114.99,high,medium,7,namesilo,,,09/09/2026 13:03
 3010c22b-4dda-4402-a471-dc638c2b9dfe,poof.flowers,available,64.99,114.99,medium,low,4,namesilo,,,09/09/2026 08:09
 e9e6ba35-ecef-4574-b189-9eec45996468,organs.flowers,available,64.99,114.99,high,low,6,namesilo,,,
 531db2db-e7bb-423e-9fcd-0650c3d6d30f,unfit.flowers,available,64.99,114.99,medium,low,5,namesilo,,,12/09/2026 10:23
 f73c5954-890d-4f39-bd4b-540649d23b2e,prop.flowers,available,108.98,159.98,high,low,4,namecheap,,,17/09/2026 23:19
-3b2505d4-c6ad-4755-8e6f-28ea2e3b4dc2,thou.flowers,available,64.99,114.99,high,low,4,namesilo,,,21/09/2026 11:11
+3b2505d4-c6ad-4755-8e6f-28ea2e3b4dc2,thou.flowers,available,64.99,114.99,medium,low,4,namesilo,,,21/09/2026 11:11
 81619f58-7f2a-4c37-89cb-81bd21d414d6,anchovy.flowers,available,64.99,114.99,high,low,7,namesilo,,,19/09/2026 03:46
 06282fda-b85f-4f20-b6bb-b70dcfcb5fd4,taxa.flowers,available,64.99,114.99,medium,low,4,namesilo,,,25/09/2026 17:29
 c85a64e4-b46f-40d2-a52b-b156e9c87cec,maximilian.flowers,available,64.99,114.99,high,low,10,namesilo,,,27/09/2026 07:16
 13c87a53-9a2e-4d31-94b8-8ffbffc42023,update.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 332e16f0-81fa-461d-bc90-4dda5faed04c,pot.flowers,available,108.98,159.98,high,low,3,namecheap,,,25/09/2026 20:52
 f2ce0ff4-cce3-4263-a789-073529353c1e,spot.flowers,premium,2660,2660,high,medium,4,namesilo,,,
-340bd8fb-1210-488b-9429-f337c145d16c,curled.flowers,available,64.99,114.99,high,low,6,namesilo,,,13/08/2026 11:19
+340bd8fb-1210-488b-9429-f337c145d16c,curled.flowers,available,64.99,114.99,medium,low,6,namesilo,,,13/08/2026 11:19
 2bc2e3a0-08c0-4949-9a1c-2206b8148e61,wheels.flowers,available,108.98,159.98,high,low,6,namecheap,,,17/09/2026 12:21
-4f5a30e3-cf62-43a9-a439-44c30530b374,resolute.flowers,available,64.99,114.99,high,low,8,namesilo,,,
+4f5a30e3-cf62-43a9-a439-44c30530b374,resolute.flowers,available,93.35,103.4,high,low,8,spaceship,,,27/09/2026 12:14
 37dba56b-cc3a-4061-af31-323ce736d3ff,whitewater.flowers,available,64.99,114.99,high,low,11,namesilo,,,
 32ad58e6-61fa-434e-b901-1f127ac39720,energizer.flowers,available,64.99,114.99,high,low,9,namesilo,,,19/09/2026 09:06
 35858854-1b88-4b8a-8913-61c5cbefab54,napoleonic.flowers,available,64.99,114.99,medium,low,10,namesilo,,,03/09/2026 13:00
 392e35a8-d588-45c2-81ad-b86fc2da4c16,exulting.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/08/2026 19:44
 9530e014-254d-45fe-be47-40e1549c2f9c,auklet.flowers,available,64.99,114.99,medium,low,6,namesilo,,,21/09/2026 04:08
 9e4d1bbe-cbb6-457e-a10c-79f286fab1eb,wilsonian.flowers,available,64.99,114.99,medium,low,9,namesilo,,,13/09/2026 12:02
-0b66dbc1-e8a2-41cd-9a37-5728d109fe2a,remarkably.flowers,available,64.99,114.99,high,low,10,namesilo,,,15/09/2026 23:06
+0b66dbc1-e8a2-41cd-9a37-5728d109fe2a,remarkably.flowers,available,64.99,114.99,medium,low,10,namesilo,,,15/09/2026 23:06
 0df18baf-f665-4d0a-8bc5-d34a9ee1dc66,bold.flowers,available,64.99,114.99,high,medium,4,namesilo,,,22/09/2026 23:09
 dc8421e1-7237-4e3c-b7de-9ae497191516,modern.flowers,premium,2600,2600,high,low,6,namecheap,,,24/09/2026 21:28
 855d74c2-98a7-40cd-a301-ba97ab38318c,least.flowers,available,64.99,114.99,high,low,5,namesilo,,,25/09/2026 13:24
@@ -529,14 +543,16 @@ fc1f9714-6fb9-4f9d-9ca8-ac14a046f8cd,traders.flowers,available,159.98,,high,low,
 430167ba-ae43-433d-afbf-7daa537023f5,anticipated.flowers,available,64.99,114.99,high,low,11,namesilo,,,08/09/2026 14:34
 99e1aba8-fa34-438f-a826-484b08e0e35b,horrible.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/08/2026 15:44
 93745c8b-2075-4d59-8534-45b19e091e9b,organic.flowers,premium,832,832,high,low,7,namesilo,,,08/09/2026 11:55
-d71454bb-8497-4f39-8141-257e97820bd8,moreno.flowers,premium,1103.2,1103.2,high,low,6,name.com,,,27/09/2026 10:16
-05151008-edf8-48de-9b9f-c9d0b164377f,curricular.flowers,available,64.99,114.99,high,low,10,namesilo,,,13/08/2026 11:29
+d71454bb-8497-4f39-8141-257e97820bd8,moreno.flowers,premium,1103.2,1103.2,medium,low,6,name.com,,,27/09/2026 10:16
+05151008-edf8-48de-9b9f-c9d0b164377f,curricular.flowers,available,64.99,114.99,medium,low,10,namesilo,,,13/08/2026 11:29
 91729737-2072-4d8a-8225-633e086bdcd8,chronicle.flowers,available,64.99,114.99,high,low,9,namesilo,,,16/09/2026 23:05
 3c4d4932-6ade-49ce-bcdb-4c95d21eb9a8,citizens.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/09/2026 15:13
+e8028721-2d08-430b-8118-92b7949399f2,douglas.flowers,premium,672.95,672.95,high,low,7,spaceship,,,27/09/2026 13:08
 4c322c48-bbd9-4659-85d8-7bf8f9042c2e,exercising.flowers,available,64.99,114.99,high,low,10,namesilo,,,
 0c090c18-c7fc-45ad-9ac6-4b56caaa7a1f,matrix.flowers,available,159.98,,high,medium,6,namecheap,,,
-433fca38-b080-4105-bf55-982e23f2f0df,ashkenazi.flowers,available,108.98,159.98,high,low,9,namecheap,,,20/09/2026 13:54
+433fca38-b080-4105-bf55-982e23f2f0df,ashkenazi.flowers,available,108.98,159.98,medium,low,9,namecheap,,,20/09/2026 13:54
 c037f6e3-bb3e-4a85-b804-99031fd8bc40,chthonian.flowers,available,64.99,114.99,medium,low,9,namesilo,,,12/08/2026 07:26
+f782d24f-7af6-4efd-8925-fd5bde493deb,hack.flowers,available,64.99,114.99,high,medium,4,namesilo,,,28/09/2026 01:47
 3bbf51df-5056-4c06-ba8e-991980ca0db0,alabaman.flowers,available,64.99,114.99,medium,low,8,namesilo,,,18/09/2026 01:35
 8f5655f5-7b53-43bc-af44-a6c3bcab3ac8,amidships.flowers,available,64.99,114.99,medium,low,9,namesilo,,,
 8c293d8a-ffcc-4a88-a221-a3efd4f64f7d,gardiner.flowers,available,64.99,114.99,high,low,8,namesilo,,,25/09/2026 06:17
@@ -549,7 +565,7 @@ cd120970-ea77-4c1c-bdb2-cad723758a1f,hereabouts.flowers,available,64.99,114.99,m
 3c253a26-bf3f-490a-9347-619abbde8ede,deputy.flowers,available,64.99,114.99,high,low,6,namesilo,,,
 c1647b58-fbbc-46b5-bd9f-c1e5fd7001f7,palmy.flowers,available,108.98,159.98,medium,low,5,namecheap,,,10/08/2026 19:15
 9eb926ce-a11a-4d47-ad89-3d5f00375993,septic.flowers,available,64.99,114.99,high,low,6,namesilo,,,22/08/2026 04:07
-703c9d2c-430e-4830-b45e-846362fb2a63,weirdness.flowers,available,108.98,159.98,high,low,9,namecheap,,,23/09/2026 23:18
+703c9d2c-430e-4830-b45e-846362fb2a63,weirdness.flowers,available,108.98,159.98,medium,low,9,namecheap,,,23/09/2026 23:18
 3bfd56f0-c0d2-4aac-974a-9ae3f65e3bd3,illative.flowers,available,108.98,159.98,medium,low,8,namecheap,,,21/08/2026 19:47
 8ea9ad8d-5ed4-4537-86ae-eaebe25858fc,euphonic.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/08/2026 14:13
 d38f7329-d2c6-41db-b92a-f1c06ff6d208,rant.flowers,available,64.99,114.99,high,low,4,namesilo,,,24/09/2026 03:37
@@ -560,7 +576,7 @@ d38f7329-d2c6-41db-b92a-f1c06ff6d208,rant.flowers,available,64.99,114.99,high,lo
 82d16265-f683-4307-bb70-b7ef2d612601,diminished.flowers,available,64.99,114.99,medium,low,10,namesilo,,,07/08/2026 15:00
 a29bdd56-6865-4785-9a35-365627b757e3,stoneless.flowers,available,108.98,159.98,low,low,9,namecheap,,,10/09/2026 21:12
 52296662-b80d-4552-b5ae-ff6964c1db82,vested.flowers,available,64.99,114.99,high,low,6,namesilo,,,13/09/2026 04:49
-3f279a85-764c-45ed-a391-a72bc2805eaf,rumbling.flowers,available,108.98,159.98,high,low,8,namecheap,,,20/08/2026 20:34
+3f279a85-764c-45ed-a391-a72bc2805eaf,rumbling.flowers,available,108.98,159.98,medium,low,8,namecheap,,,20/08/2026 20:34
 51c85fd7-8d9c-4fe7-9ff9-040bc90c08f3,reassured.flowers,available,64.99,114.99,high,low,9,namesilo,,,09/09/2026 11:12
 b2eeffcc-8c77-44c6-b5bf-ce7d7eae8615,hoagy.flowers,available,108.98,159.98,high,low,5,namecheap,,,24/09/2026 20:07
 27b8b704-d30e-47fd-a52d-b7ec97afd635,bartlett.flowers,available,108.98,159.98,high,low,8,namecheap,,,22/09/2026 09:19
@@ -603,6 +619,7 @@ e92298eb-4aa7-4285-8652-3dd14a7b51d6,unthinking.flowers,available,64.99,114.99,m
 f3885aad-e611-4708-b321-b282d27192ca,unsworn.flowers,available,108.98,159.98,medium,low,7,namecheap,,,12/09/2026 20:53
 348f9027-51ad-4428-ad60-3c655533e489,inhibit.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 31325f2e-b120-4e86-9f92-56d2d83fd625,willow.flowers,available,64.99,114.99,high,low,6,namesilo,,,
+6c4ef138-9abb-4de6-b0f2-8b2ec0bd18a7,standards.flowers,available,64.99,114.99,medium,low,9,namesilo,,,27/09/2026 22:53
 5836e368-eb27-495c-8494-e835d91f9d63,admittance.flowers,available,64.99,114.99,high,low,10,namesilo,,,16/09/2026 22:13
 b5156c30-0ea3-43e9-afa5-cda9b3daa38a,strip.flowers,available,64.99,114.99,high,low,5,namesilo,,,24/09/2026 05:53
 66dddf91-2e51-44c9-9af6-6c60c55e07c4,inka.flowers,available,64.99,114.99,medium,low,4,namesilo,,,22/08/2026 00:48
@@ -673,7 +690,7 @@ dc55b93a-a150-46b9-866e-8d4baa5a6183,affiliate.flowers,available,64.99,114.99,hi
 8425d0cb-351c-4d94-b402-fdacaa3ba291,theocratic.flowers,available,64.99,114.99,medium,low,10,namesilo,,,11/09/2026 12:52
 b02a09e8-e1bf-4f85-a9fa-ed5ce8a15c0f,sedative.flowers,available,64.99,114.99,high,low,8,namesilo,,,22/09/2026 10:55
 85934d77-9333-43de-a5d1-835a62c95782,financial.flowers,available,64.99,114.99,high,low,9,namesilo,,,23/09/2026 07:40
-c979df46-d808-49f4-86bb-4bd79794d960,swot.flowers,available,108.98,159.98,high,low,4,namecheap,,,10/08/2026 18:21
+c979df46-d808-49f4-86bb-4bd79794d960,swot.flowers,available,108.98,159.98,medium,low,4,namecheap,,,10/08/2026 18:21
 3479fbed-430d-42db-bed3-36ada7194f6b,amuse.flowers,available,64.99,114.99,high,low,5,namesilo,,,
 11143c2d-8438-483a-b9f4-5bb45d657640,endodontic.flowers,available,64.99,114.99,medium,low,10,namesilo,,,17/08/2026 01:06
 6f1b2ac2-5211-4302-acb7-c5843090c731,amiss.flowers,available,64.99,114.99,high,low,5,namesilo,,,
@@ -724,10 +741,11 @@ f19b6267-b5de-4e87-9bc6-b859f7d86de1,podlike.flowers,available,64.99,114.99,medi
 c469a78e-bda1-4176-80c4-e264355a07e1,daft.flowers,available,64.99,114.99,high,low,4,namesilo,,,06/08/2026 20:50
 a21cca0b-9fa9-47ff-bf32-e3b153bbd4ed,magpie.flowers,available,108.98,159.98,high,low,6,namecheap,,,21/09/2026 12:29
 a34073e3-dd49-4c4b-a58a-64defc3a4845,mountain.flowers,premium,845,845,high,low,8,namecheap,,,25/09/2026 20:48
-5ef7bcc0-875b-482c-a242-63f07e740df0,bedframe.flowers,available,64.99,114.99,high,low,9,namesilo,,,22/09/2026 23:17
+5ef7bcc0-875b-482c-a242-63f07e740df0,bedframe.flowers,available,64.99,114.99,medium,low,9,namesilo,,,22/09/2026 23:17
 e8f3ce36-1e96-4f72-979c-d2b56261d0d2,annual.flowers,premium,845,845,high,low,6,namecheap,,,22/09/2026 05:27
 fc463029-a1b0-492b-8ba3-af2273382bbe,evelyn.flowers,premium,832,832,high,low,6,namesilo,,,25/09/2026 14:39
 7ecb17df-0aa5-4d19-b41e-f852826e3b43,daydreams.flowers,available,108.98,159.98,medium,low,9,namecheap,,,19/09/2026 21:17
+abb25557-4072-48f5-a403-fc96f7c4c44e,claimed.flowers,available,64.99,114.99,medium,low,7,namesilo,,,27/09/2026 23:56
 c850ac6b-a646-4d16-846e-7b7c7fe888b4,volcano.flowers,available,64.99,114.99,high,low,7,namesilo,,,
 fa5801a1-5d58-421f-a6b6-32074a6e5573,accusive.flowers,available,64.99,114.99,low,low,8,namesilo,,,
 b51dac39-a0cd-46b2-8a48-c4565fb4cb48,norms.flowers,available,64.99,114.99,medium,low,5,namesilo,,,
@@ -750,7 +768,7 @@ cdb3154a-c462-4ab1-871b-c6fa4837024f,iso.flowers,available,,,high,high,3,,,,
 d2ff3de0-dfa4-4f3d-a420-3481a999b8e1,glare.flowers,available,64.99,114.99,high,low,5,namesilo,,,24/09/2026 10:22
 5c1ddff4-2f7c-4c08-8296-623d5c1ff2dd,full.flowers,available,64.99,114.99,high,low,4,namesilo,,,24/09/2026 14:07
 57fb444b-e3f2-4fc1-aea4-74d6b0a29377,muddled.flowers,available,64.99,114.99,medium,low,7,namesilo,,,03/09/2026 10:22
-6477a432-dbe9-4303-981a-ff27850d8d8f,nonsmoking.flowers,available,108.98,159.98,high,low,11,namecheap,,,16/09/2026 20:03
+6477a432-dbe9-4303-981a-ff27850d8d8f,nonsmoking.flowers,available,108.98,159.98,medium,low,11,namecheap,,,16/09/2026 20:03
 fdddbe7a-c13a-4842-bb32-b1d2837ea60f,started.flowers,available,64.99,114.99,medium,low,7,namesilo,,,18/09/2026 11:27
 44707e89-1b4b-4542-b905-0b0d97fc745b,willful.flowers,available,64.99,114.99,medium,low,7,namesilo,,,18/08/2026 16:37
 0483e014-7b75-4549-924f-ee7f44cff745,coalesced.flowers,available,64.99,114.99,medium,low,9,namesilo,,,
@@ -774,7 +792,7 @@ e47fa151-c863-4e7b-be61-b38de4bba29a,megascopic.flowers,available,108.98,159.98,
 3894b848-62bd-413e-99b7-e47bed7b2427,adapted.flowers,available,64.99,114.99,high,low,7,namesilo,,,21/09/2026 17:02
 85678baf-1a38-46dc-8216-8b97a6e81838,unlearned.flowers,available,64.99,114.99,medium,low,9,namesilo,,,21/08/2026 18:31
 d976444d-56e1-4467-866a-2e9a696a7e8f,reconciled.flowers,available,64.99,114.99,high,low,10,namesilo,,,09/09/2026 11:49
-47ef989d-852a-48a3-a0e4-2dc4a0aa404d,babu.flowers,available,64.99,114.99,high,low,4,namesilo,,,21/09/2026 12:51
+47ef989d-852a-48a3-a0e4-2dc4a0aa404d,babu.flowers,available,64.99,114.99,medium,low,4,namesilo,,,21/09/2026 12:51
 17542ea1-2eb3-49f2-b0a8-83834de3b750,rectify.flowers,available,108.98,159.98,high,low,7,namecheap,,,23/09/2026 23:41
 11f012ae-09ac-4f76-8661-2054493fe49c,totemic.flowers,available,108.98,159.98,medium,low,7,namecheap,,,11/09/2026 18:10
 eafcb71d-6d9d-4b3f-9495-b977623e3ae5,vitamin.flowers,available,64.99,114.99,high,low,7,namesilo,,,08/09/2026 14:16
@@ -784,6 +802,7 @@ f95002fa-a4e5-4e7c-855d-de0a4ab8bb5b,chimpanzee.flowers,available,64.99,114.99,h
 01c83c76-ea2e-4f98-8da0-190de906d6bd,overland.flowers,available,108.98,159.98,high,low,8,namecheap,,,04/09/2026 20:56
 fbc41cda-f9ab-453b-929d-440023b1c201,losing.flowers,available,108.98,159.98,high,low,6,namecheap,,,25/09/2026 11:49
 1ad07af2-b186-4b7d-af37-d2e22c309274,blacksmith.flowers,available,64.99,114.99,high,low,10,namesilo,,,24/09/2026 03:09
+8a9b59da-f3b2-4fa1-b8bb-48f7a0078a99,controls.flowers,available,64.99,114.99,medium,low,8,namesilo,,,27/09/2026 23:26
 19e11ce1-481e-4067-b519-cd07b498cd70,sailor.flowers,available,64.99,114.99,high,low,6,namesilo,,,
 15a17fe5-a418-4959-9f8c-758166bcd727,leek.flowers,available,64.99,114.99,medium,low,4,namesilo,,,18/09/2026 11:25
 ff0e2bb6-beeb-478b-a94e-0b238c35bbae,serrate.flowers,available,64.99,114.99,medium,low,7,namesilo,,,03/09/2026 22:06
@@ -796,7 +815,7 @@ cf455130-2e50-471c-a573-b2185b87aabe,laurie.flowers,available,64.99,114.99,high,
 9e0f4048-f550-431e-9395-8c94063faf4f,castor.flowers,available,64.99,114.99,medium,low,6,namesilo,,,18/09/2026 13:36
 6d571748-b2a3-4d03-979e-bc70e20ff7ae,cleveland.flowers,available,64.99,114.99,high,low,9,namesilo,,,
 847b4fb7-e6fa-4fea-aabc-8a9bd4db358b,bloomfield.flowers,available,64.99,114.99,high,low,10,namesilo,,,25/09/2026 21:57
-c3d54aad-2870-4cc2-905d-e743812fb930,bedpan.flowers,available,108.98,159.98,high,low,6,namecheap,,,22/09/2026 23:28
+c3d54aad-2870-4cc2-905d-e743812fb930,bedpan.flowers,available,108.98,159.98,medium,low,6,namecheap,,,22/09/2026 23:28
 a51662fb-4653-4d6b-a575-6171f92bc3f1,bel.flowers,available,64.99,114.99,high,low,3,namesilo,,,23/09/2026 04:21
 3c2245dc-1bb4-477c-83a3-74e7306d2a34,merely.flowers,available,64.99,114.99,medium,low,6,namesilo,,,25/09/2026 12:17
 8c322fb7-90b1-4a31-916b-6e59ad65a203,algae.flowers,available,64.99,114.99,high,low,5,namesilo,,,18/09/2026 06:48
@@ -804,8 +823,8 @@ e22845f5-ebc3-4b46-826b-2da335ccc735,italic.flowers,available,64.99,114.99,high,
 e8903660-ec48-42f7-a0d4-dc8d79d57aef,reclaimed.flowers,available,64.99,114.99,high,low,9,namesilo,,,09/09/2026 11:36
 39fd1afe-c58f-44a0-b7d1-b86cb42088d4,forepart.flowers,available,64.99,114.99,medium,low,8,namesilo,,,18/08/2026 16:13
 e7d86540-c5ec-4f01-8d2f-021c1528d540,vila.flowers,available,64.99,114.99,high,low,4,namesilo,,,24/09/2026 12:33
-f47572f5-096e-42db-9bc9-4db57db9e575,nurses.flowers,available,108.98,159.98,high,low,6,namecheap,,,19/09/2026 19:32
-5edb1394-4944-4e22-b600-aa051d00e393,anabaptist.flowers,available,64.99,114.99,high,low,10,namesilo,,,19/09/2026 00:49
+f47572f5-096e-42db-9bc9-4db57db9e575,nurses.flowers,available,108.98,159.98,medium,low,6,namecheap,,,19/09/2026 19:32
+5edb1394-4944-4e22-b600-aa051d00e393,anabaptist.flowers,available,64.99,114.99,medium,low,10,namesilo,,,19/09/2026 00:49
 aa73d868-80fd-4891-8012-0da9f16312ae,riant.flowers,available,108.98,159.98,medium,low,5,namecheap,,,22/08/2026 20:55
 c301e94b-a7a1-4565-be91-c5a859a1a370,aurous.flowers,available,64.99,114.99,medium,low,6,namesilo,,,07/08/2026 17:31
 7fe67ba4-2b80-486e-bf86-e3b7afd1c07c,urbane.flowers,available,64.99,114.99,high,low,6,namesilo,,,11/09/2026 04:57
@@ -825,6 +844,7 @@ e5aa95f8-2f22-4f3a-9e5e-8aa9ad2b354d,import.flowers,available,108.98,159.98,high
 9b2febb1-f109-482e-abf0-58d9a6e3fcad,reentrant.flowers,available,64.99,114.99,medium,low,10,namesilo,,,09/09/2026 10:51
 0797829b-d4a5-404f-821c-73870ae78824,bce.flowers,premium,2660,2660,high,low,3,namesilo,,,
 16392c19-3eba-4dda-8e27-cafec1627421,portland.flowers,premium,832,832,high,low,8,namesilo,,,
+cc74b24b-8be8-45ec-a847-f5ebc22d8954,emotionally.flowers,available,93.35,103.4,high,low,11,spaceship,,,27/09/2026 17:53
 28166c69-9516-4f08-bd37-c550bf8d6a2f,superior.flowers,available,64.99,114.99,high,low,8,namesilo,,,21/08/2026 09:12
 90bb415d-df9a-4511-947a-35086ec73875,abor.flowers,available,64.99,114.99,medium,low,4,namesilo,,,16/09/2026 16:36
 9b61d827-89f3-4a49-ab3d-e6a47351a6a0,uproar.flowers,available,159.98,,high,low,6,namecheap,,,
@@ -839,10 +859,10 @@ fdf82b6e-b13e-4f42-8cfa-4df38c87c82c,evidenced.flowers,available,64.99,114.99,hi
 01276ba1-1364-4a70-80a0-f42063030be1,honk.flowers,available,64.99,114.99,high,medium,4,namesilo,,,10/09/2026 07:42
 e492eb78-1ec1-4799-9484-98073e807faf,criteria.flowers,available,64.99,114.99,high,low,8,namesilo,,,
 96535950-296b-43bf-982c-7bec9418f415,aorist.flowers,available,64.99,114.99,medium,low,6,namesilo,,,19/09/2026 16:03
-5aa68bf3-717c-4b19-a4b3-247d0d45361a,bacitracin.flowers,available,64.99,114.99,high,low,10,namesilo,,,21/09/2026 14:25
+5aa68bf3-717c-4b19-a4b3-247d0d45361a,bacitracin.flowers,available,64.99,114.99,medium,low,10,namesilo,,,21/09/2026 14:25
 8b457a4a-a332-4f4e-a936-7c2b4d47306b,marblewood.flowers,available,64.99,114.99,medium,low,10,namesilo,,,19/09/2026 03:58
 ed6b779d-876f-402d-8612-86ea1b2f8da3,airdock.flowers,available,64.99,114.99,medium,low,7,namesilo,,,17/09/2026 23:04
-047db5f8-d3b2-45ec-8dfc-1bd47a4bb56f,declarer.flowers,available,108.98,159.98,high,low,8,namecheap,,,17/09/2026 14:33
+047db5f8-d3b2-45ec-8dfc-1bd47a4bb56f,declarer.flowers,available,108.98,159.98,medium,low,8,namecheap,,,17/09/2026 14:33
 08cf8b5c-c4fa-4d5d-8fc1-4181a81c5e64,cushioned.flowers,available,64.99,114.99,high,low,9,namesilo,,,13/08/2026 11:53
 087d3af4-c6a0-4983-9a13-30e183d6cead,blanched.flowers,available,64.99,114.99,medium,low,8,namesilo,,,07/08/2026 02:14
 7b4fb507-f10b-4d8c-b5c2-a23b73257ff2,soaked.flowers,available,64.99,114.99,medium,low,6,namesilo,,,09/08/2026 15:52
@@ -851,9 +871,9 @@ ed6b779d-876f-402d-8612-86ea1b2f8da3,airdock.flowers,available,64.99,114.99,medi
 24ec8c0b-dd2f-4b4a-a833-824188ed3853,quiesce.flowers,available,108.98,159.98,medium,low,7,namecheap,,,09/09/2026 08:52
 ee6cfde1-a241-45a7-8113-bcb6761a2588,hopeless.flowers,available,64.99,114.99,medium,low,8,namesilo,,,21/08/2026 13:54
 38f019d5-febb-48c5-b199-37759ca797cb,have.flowers,available,64.99,114.99,high,low,4,namesilo,,,26/09/2026 03:37
-db9dacc4-05d6-49c8-9b7f-987f34aa3fbb,amble.flowers,available,108.98,159.98,high,low,5,namecheap,,,18/09/2026 16:54
+db9dacc4-05d6-49c8-9b7f-987f34aa3fbb,amble.flowers,available,108.98,159.98,medium,low,5,namecheap,,,18/09/2026 16:54
 a9f2a201-060e-4ffd-a069-3a4c4fee89bc,allah.flowers,available,108.98,159.98,high,low,5,namecheap,,,18/09/2026 09:44
-f1060a6e-ca39-4d3e-b3f9-c6ea20f19608,nearest.flowers,available,64.99,114.99,high,low,7,namesilo,,,
+f1060a6e-ca39-4d3e-b3f9-c6ea20f19608,nearest.flowers,available,64.99,114.99,medium,low,7,namesilo,,,
 152e6d89-c33b-4ada-951f-b224e6274c7b,chain.flowers,premium,2660,2660,high,low,5,namesilo,,,
 b7d6e0d8-f5c3-4fe7-87ae-055a2af3bd1a,lunt.flowers,available,64.99,114.99,medium,low,4,namesilo,,,18/09/2026 06:40
 1ee3ba73-0fdc-4886-84ad-e14d3e75969d,hillary.flowers,available,64.99,114.99,high,low,7,namesilo,,,27/09/2026 03:48
@@ -864,7 +884,7 @@ b69badd6-b6ec-449c-a9cf-e3a248e5011b,frenetic.flowers,available,64.99,114.99,med
 0bd9d192-d197-43f8-9a14-1e99dcb82397,babysitter.flowers,available,64.99,114.99,high,low,10,namesilo,,,21/09/2026 13:10
 473be040-225f-4d2e-bdb6-f2879b42e90d,adamance.flowers,available,64.99,114.99,medium,low,8,namesilo,,,17/09/2026 06:15
 2323a331-1d82-48ae-b10d-d05ad786d354,concourse.flowers,available,64.99,114.99,high,low,9,namesilo,,,
-a17808d3-0179-4c40-8061-c645f8ce2759,storied.flowers,available,64.99,114.99,high,low,7,namesilo,,,21/08/2026 09:55
+a17808d3-0179-4c40-8061-c645f8ce2759,storied.flowers,available,64.99,114.99,medium,low,7,namesilo,,,21/08/2026 09:55
 38677e21-db37-42d1-abe0-6d261479b921,finds.flowers,available,64.99,114.99,high,low,5,namesilo,,,18/09/2026 15:38
 c7437cee-e530-4570-a711-a5d4ac6f44f7,bankers.flowers,premium,2660,2660,medium,low,7,namesilo,,,20/09/2026 11:37
 377c4e1e-b36b-460f-b9aa-18da105e4297,rusty.flowers,available,64.99,114.99,high,low,5,namesilo,,,04/09/2026 18:46
@@ -874,7 +894,7 @@ f7560951-b28e-4efa-9399-dcae3183cd67,kansas.flowers,available,64.99,114.99,high,
 0b56826f-c68a-4f55-9e1b-5436f26822d2,civilian.flowers,available,64.99,114.99,high,low,8,namesilo,,,12/08/2026 09:04
 3ed0078c-2abf-4cf3-ba1c-b04478cac949,extensible.flowers,available,108.98,159.98,medium,low,10,namecheap,,,17/08/2026 19:03
 bfa484cc-ee3a-45a8-9ec9-640caab0224a,compared.flowers,available,64.99,114.99,medium,low,8,namesilo,,,27/09/2026 09:01
-0f752c68-eb05-4a86-8195-740a14fbad9c,undesirable.flowers,available,64.99,114.99,high,low,11,namesilo,,,
+0f752c68-eb05-4a86-8195-740a14fbad9c,undesirable.flowers,available,64.99,114.99,medium,low,11,namesilo,,,
 2eb1757d-38a9-4e77-9b57-19d62f14d4fc,diseases.flowers,available,64.99,114.99,low,low,8,namesilo,,,17/09/2026 16:41
 a5349025-2739-4773-a8c3-5b15ff245a08,heated.flowers,available,64.99,114.99,high,low,6,namesilo,,,21/08/2026 02:17
 076056ff-82e1-4efa-b2aa-b7ad24fe868c,ankara.flowers,available,64.99,114.99,high,low,6,namesilo,,,19/09/2026 07:05
@@ -882,7 +902,7 @@ f93758e7-e1d5-459b-8003-36f7da31cab1,hospitably.flowers,available,64.99,114.99,m
 871b8351-155b-4910-b37e-9f8b5634ad35,tobago.flowers,available,108.98,159.98,high,low,6,namecheap,,,27/09/2026 05:45
 c0498051-6b24-4416-ab1f-10af25ff03fb,pub.flowers,available,159.98,,high,low,3,namecheap,,,
 e2a00384-ace7-4c2c-bfdb-b185719f0494,ephemeral.flowers,available,64.99,114.99,high,low,9,namesilo,,,17/08/2026 10:17
-1d9fd881-fa07-4b19-b022-af3a93eef681,bargainer.flowers,available,64.99,114.99,high,low,9,namesilo,,,22/09/2026 05:32
+1d9fd881-fa07-4b19-b022-af3a93eef681,bargainer.flowers,available,64.99,114.99,medium,low,9,namesilo,,,22/09/2026 05:32
 e35a3027-ee34-458e-a40d-6daabb1aa08f,adhere.flowers,available,64.99,114.99,high,low,6,namesilo,,,23/09/2026 17:04
 18378a6e-2347-4068-9463-038379781fa1,armful.flowers,available,64.99,114.99,medium,low,6,namesilo,,,20/09/2026 06:50
 7873a468-7892-4db2-9276-92be15ae5d0f,ark.flowers,available,64.99,114.99,high,medium,3,namesilo,,,20/09/2026 06:09
@@ -893,7 +913,7 @@ f4063e25-74fd-4411-91a1-2f1c4766376a,fleet.flowers,premium,2600,2600,high,high,5
 176bbd09-82d6-4379-bcdf-132e7712143b,peck.flowers,premium,832,832,high,low,4,namesilo,,,25/08/2026 00:37
 6e8556f6-9a20-4709-bfde-7a197f1952af,performance.flowers,available,64.99,114.99,high,low,11,namesilo,,,25/09/2026 16:44
 fdc11cad-4e7e-499e-83bc-4d254966d50c,ava.flowers,premium,832,832,high,medium,3,namesilo,,,
-6f0fb9f2-c0e0-4481-8606-af3147b168ee,shooting.flowers,available,64.99,114.99,high,low,8,namesilo,,,
+6f0fb9f2-c0e0-4481-8606-af3147b168ee,shooting.flowers,available,108.98,159.98,high,low,8,namecheap,,,27/09/2026 21:17
 326f79aa-073e-478b-beea-29a5cac431c9,graven.flowers,available,64.99,114.99,medium,low,6,namesilo,,,17/08/2026 07:43
 a7363778-905d-4cbb-b6d3-8998d41416cf,introduces.flowers,available,108.98,159.98,medium,low,10,namecheap,,,18/09/2026 14:34
 9f5082a3-f4b5-4eba-8b83-0aa875f12c67,esthete.flowers,available,64.99,114.99,medium,low,7,namesilo,,,17/09/2026 13:35
@@ -911,13 +931,13 @@ ceba12fe-d17a-49b0-863a-9fcce845705c,ageratum.flowers,available,108.98,159.98,me
 aecda795-32b6-403b-835c-6e35c4efa68d,prevail.flowers,available,64.99,114.99,high,medium,7,namesilo,,,09/09/2026 01:31
 ba2d89c3-3c97-4136-8f34-eaf8d52f0609,exportable.flowers,available,64.99,114.99,high,low,10,namesilo,,,17/08/2026 18:35
 e59fe391-c6c3-416f-a369-67f54f77c113,waste.flowers,available,108.98,159.98,high,low,5,namecheap,,,22/09/2026 17:29
-27b285a0-bd37-441e-860d-30cf8afe1159,forgery.flowers,available,64.99,114.99,high,low,7,namesilo,,,13/08/2026 03:36
+27b285a0-bd37-441e-860d-30cf8afe1159,forgery.flowers,available,64.99,114.99,medium,low,7,namesilo,,,13/08/2026 03:36
 1c97abe8-6b90-43d9-8fa9-e66d36cde4aa,comparably.flowers,available,64.99,114.99,medium,low,10,namesilo,,,14/09/2026 07:37
-b1b4bf4d-08d7-4b39-8ba4-bcf8de252671,jagged.flowers,available,64.99,114.99,high,low,6,namesilo,,,17/08/2026 12:32
+b1b4bf4d-08d7-4b39-8ba4-bcf8de252671,jagged.flowers,available,64.99,114.99,medium,low,6,namesilo,,,17/08/2026 12:32
 02372362-1720-40be-b370-c0a92b2379b9,balsam.flowers,available,64.99,114.99,high,low,6,namesilo,,,22/09/2026 00:04
 577fb430-c39e-42a8-870f-d3ff34715c07,fulgid.flowers,available,64.99,114.99,medium,low,6,namesilo,,,
 c5c25c8f-5617-4f24-b55f-50bec895f401,xxvi.flowers,available,64.99,114.99,medium,low,4,namesilo,,,21/09/2026 12:52
-c92ba79d-1944-46e1-92dc-cb6832d83367,bronte.flowers,available,64.99,114.99,high,low,6,namesilo,,,19/09/2026 10:16
+c92ba79d-1944-46e1-92dc-cb6832d83367,bronte.flowers,available,64.99,114.99,medium,low,6,namesilo,,,19/09/2026 10:16
 3120c02b-94fd-4583-b548-7c0b1240d7cd,eristic.flowers,available,64.99,114.99,medium,low,7,namesilo,,,17/08/2026 12:17
 f2aafac2-78e3-42f2-a849-9f9c6b67dade,cleaned.flowers,available,64.99,114.99,high,low,7,namesilo,,,27/09/2026 02:45
 59bc8b53-8239-44ee-9cca-aa2829d2fdcd,hoarfrost.flowers,available,64.99,114.99,medium,low,9,namesilo,,,21/08/2026 10:07
@@ -937,14 +957,14 @@ c0d4ea6e-a330-45aa-981a-56d976c7ab8c,ryan.flowers,premium,2660,2660,high,medium,
 3e4ec306-8b4f-46ab-b0ea-f79628067d26,sweltering.flowers,available,64.99,114.99,medium,low,10,namesilo,,,11/09/2026 05:40
 9f2f5302-8ad9-470c-93cf-28f0d4d03f43,biloxi.flowers,available,64.99,114.99,high,low,6,namesilo,,,23/09/2026 16:52
 1bf81a24-c937-4300-9212-e48e7df3b760,bimbo.flowers,premium,2660,2660,high,low,5,namesilo,,,23/09/2026 16:54
-944d453d-4c83-47a5-8cb3-e5e77965b86f,stopgap.flowers,available,64.99,114.99,high,low,7,namesilo,,,24/08/2026 13:27
+944d453d-4c83-47a5-8cb3-e5e77965b86f,stopgap.flowers,available,64.99,114.99,medium,low,7,namesilo,,,24/08/2026 13:27
 bde9519f-7707-40d0-a6fd-524ce6966d90,epistolary.flowers,available,64.99,114.99,high,low,10,namesilo,,,17/08/2026 11:14
 a5399a25-90ff-44d5-be55-1b0a8368b5b8,reedy.flowers,available,64.99,114.99,high,medium,5,namesilo,,,09/09/2026 12:26
-2f900458-e593-4261-9ec9-9ba718a5c14d,bentham.flowers,available,64.99,114.99,high,low,7,namesilo,,,23/09/2026 08:40
+2f900458-e593-4261-9ec9-9ba718a5c14d,bentham.flowers,available,64.99,114.99,medium,low,7,namesilo,,,23/09/2026 08:40
 599a1738-871b-4cb5-b95a-d9c72fe2301a,haunted.flowers,available,64.99,114.99,high,low,7,namesilo,,,21/08/2026 01:31
 dca655d9-167c-4c17-80bc-1e3dcea71dbd,overgreedy.flowers,available,64.99,114.99,medium,low,10,namesilo,,,04/09/2026 20:38
 8188288a-8b0b-4ff5-a362-af563db6bbfa,face.flowers,available,108.98,159.98,high,low,4,namecheap,,,24/09/2026 21:57
-c48760a9-5598-4df3-93fa-c56b9d23bbc0,brennan.flowers,premium,832,832,high,low,7,namesilo,,,25/09/2026 21:53
+c48760a9-5598-4df3-93fa-c56b9d23bbc0,brennan.flowers,premium,832,832,medium,low,7,namesilo,,,25/09/2026 21:53
 679ba5ac-c06c-4f84-abd6-227f61710b6a,gallic.flowers,available,64.99,114.99,medium,low,6,namesilo,,,18/08/2026 15:02
 1d0b4c9a-e9b8-4502-b2c2-73c083a4643f,buffet.flowers,available,64.99,114.99,high,low,6,namesilo,,,19/09/2026 17:05
 e5ba3bb0-ce61-45eb-8209-01680ba6e791,pigweed.flowers,available,64.99,114.99,medium,low,7,namesilo,,,18/09/2026 15:54
@@ -958,8 +978,9 @@ a6c49819-e518-4e15-b832-6fdb81aff331,related.flowers,available,64.99,114.99,high
 f6e2aee4-0c23-42b4-938e-ffcba2226e26,shellproof.flowers,available,108.98,159.98,medium,low,10,namecheap,,,10/08/2026 18:11
 cc7d6e79-6285-4c68-ae33-3125d310218d,niebuhr.flowers,available,64.99,114.99,medium,low,7,namesilo,,,22/09/2026 09:08
 80551e39-df4f-4987-8afe-6db450d92772,isoclinic.flowers,available,64.99,114.99,medium,low,9,namesilo,,,22/08/2026 11:02
-f77d7ab3-d609-4f91-90d9-18abac72cc58,xxxiv.flowers,available,64.99,114.99,high,low,5,namesilo,,,
+f77d7ab3-d609-4f91-90d9-18abac72cc58,xxxiv.flowers,available,64.99,114.99,medium,low,5,namesilo,,,
 160aec54-883e-4bff-9c11-cbe447044699,questions.flowers,available,64.99,114.99,high,low,9,namesilo,,,24/09/2026 10:21
+b75d719f-89e2-420c-89ff-849cf84456db,kobe.flowers,available,100,100,high,low,4,cloudflare,,,28/09/2026 02:14
 3c270000-a99e-41cc-8078-918099ed754d,perfected.flowers,available,108.98,159.98,high,low,9,namecheap,,,27/09/2026 03:35
 0a5c0723-e8ed-4c8b-a475-c16ff67fe21c,bearer.flowers,available,108.98,159.98,high,low,6,namecheap,,,22/09/2026 21:14
 ec278777-9669-49b2-becd-2f7565a9f3cd,downfall.flowers,available,64.99,114.99,medium,low,8,namesilo,,,24/09/2026 23:39
@@ -976,26 +997,5 @@ dd86633e-3e7e-4e22-a657-5b99def9c2ca,ramshackle.flowers,available,64.99,114.99,m
 142886f1-546d-4474-84af-f1971d6f44c5,sanctuary.flowers,available,108.98,159.98,high,high,9,namecheap,,,20/09/2026 18:34
 9354fc93-b12c-48b9-bf03-1a5d858eabba,betimes.flowers,available,64.99,114.99,medium,low,7,namesilo,,,13/09/2026 23:59
 36b946c4-8aca-46c4-b4ab-fa8d4f02bde0,thusly.flowers,available,64.99,114.99,medium,low,6,namesilo,,,16/09/2026 09:04
-57d725ec-79ba-4e5d-919a-cefa00934d7b,fallow.flowers,available,108.98,159.98,high,low,6,namecheap,,,17/08/2026 21:32
+57d725ec-79ba-4e5d-919a-cefa00934d7b,fallow.flowers,available,108.98,159.98,medium,low,6,namecheap,,,17/08/2026 21:32
 c4a5b8aa-dc91-45ce-9c95-275780703641,celebrity.flowers,available,64.99,114.99,high,low,9,namesilo,,,24/09/2026 13:24
-873e0fff-7053-4b3a-846e-15fc1c418caa,mcpherson.flowers,available,108.98,159.98,high,low,9,namecheap,,,17/09/2026 21:28
-9ed2c18b-fb37-4c5b-8505-452810b48c9e,impediment.flowers,available,64.99,114.99,medium,low,10,namesilo,,,14/08/2026 04:53
-1f302e0e-2028-484e-a08b-2be8c3a150be,forested.flowers,available,64.99,114.99,high,low,8,namesilo,,,18/08/2026 11:43
-de00cf3b-8ce9-4cb8-8d39-63eee7af90ea,afghani.flowers,available,64.99,114.99,medium,low,7,namesilo,,,
-688d471b-0708-4fc7-a346-bcd3a9a3c657,beerbohm.flowers,available,108.98,159.98,high,low,8,namecheap,,,23/09/2026 01:47
-5720f723-0f5e-450d-929a-723a91f40258,clamor.flowers,available,64.99,114.99,high,low,6,namesilo,,,10/08/2026 13:15
-3bae0ae0-2f24-4bb4-aacd-f5788eb0924a,sleekly.flowers,available,64.99,114.99,medium,low,7,namesilo,,,16/09/2026 02:30
-cbb8ff03-1efe-4e31-b26f-71746dd85151,origins.flowers,available,64.99,114.99,medium,low,7,namesilo,,,16/09/2026 10:13
-178ce906-8927-4030-81f0-b6691d4a9484,fiscally.flowers,available,64.99,114.99,medium,low,8,namesilo,,,14/09/2026 18:37
-46cdd6a0-169c-41bc-a73b-999c5df58ea4,across.flowers,available,64.99,114.99,high,low,6,namesilo,,,
-b2e83139-5451-432c-99e1-b7e4a54d3df9,scrappy.flowers,available,64.99,114.99,high,low,7,namesilo,,,09/09/2026 23:48
-1c548d13-b323-48a4-9b38-c6ec702c42d1,habitable.flowers,available,108.98,159.98,high,low,9,namecheap,,,20/08/2026 21:25
-2e28dcb6-8eae-4e1a-a4cf-c218e9f8a7b6,amylum.flowers,available,64.99,114.99,medium,low,6,namesilo,,,19/09/2026 00:32
-7f70d495-943c-4e2b-958e-bf92e91bca16,vulturine.flowers,available,64.99,114.99,high,medium,9,namesilo,,,09/09/2026 10:24
-6c5b0cb0-ae21-4c45-acee-f10631dd5725,state.flowers,available,64.99,114.99,high,medium,5,namesilo,,,
-146b8215-e0dd-4563-96c2-0e0f4a447793,flimsy.flowers,available,64.99,114.99,high,low,6,namesilo,,,18/08/2026 08:15
-631842af-0770-4fde-af52-6031033e6827,radish.flowers,available,108.98,159.98,high,low,6,namecheap,,,24/09/2026 20:53
-7f8738c8-0e45-47c5-9ff2-07a7d7c75793,kind.flowers,premium,2660,2660,high,low,4,namesilo,,,25/09/2026 12:40
-b1df1b68-72ee-4e82-87f5-ccc922e8a674,advisors.flowers,available,108.98,159.98,medium,low,8,namecheap,,,24/09/2026 14:22
-5596e1ad-f170-44c7-83c0-cbf8f0421122,describe.flowers,available,64.99,114.99,high,low,8,namesilo,,,25/09/2026 12:37
-be441fd7-ae5b-45a4-9fc8-5d7d4e63fd75,inutile.flowers,available,64.99,114.99,medium,low,7,namesilo,,,22/08/2026 08:54
