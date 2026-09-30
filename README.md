@@ -1,10 +1,10 @@
-# Available .FLOWERS One-Word Domains (27,723)
+# Available .FLOWERS One-Word Domains (30,245)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C723%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C245%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .flowers one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,723 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,245 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,723 domains · **Median ask:** $155.57 · **High-demand under $2,500:** 93
+**Public extract:** 1,000 rows · **Live catalog:** 30,245 domains · **Median ask:** $154.35 · **High-demand under $2,500:** 117
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/flowers`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| aas.flowers  | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
-| bce.flowers  | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo   |
-| abi.flowers  | available | $100      | $100          | high           | low    | 3      | cloudflare |
-| the.flowers  | premium   | $832      | $832          | high           | medium | 3      | namesilo   |
-| apr.flowers  | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
-| aqua.flowers | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo   |
-| ash.flowers  | available | $93.35    | $103.40       | high           | medium | 3      | spaceship  |
-| audi.flowers | premium   | $2,800    | $2,800        | high           | high   | 4      | namecheap  |
-| bbs.flowers  | available | $108.98   | $159.98       | high           | low    | 3      | namecheap  |
-| faux.flowers | premium   | $832      | $832          | high           | low    | 4      | namesilo   |
-| bel.flowers  | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
-| fuse.flowers | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship  |
-| dns.flowers  | available | $93.35    | $103.40       | high           | medium | 3      | spaceship  |
-| jets.flowers | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship  |
-| esp.flowers  | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
-| moss.flowers | premium   | $832      | $832          | high           | medium | 4      | namesilo   |
-| git.flowers  | available | $64.99    | $114.99       | high           | medium | 3      | namesilo   |
-| paul.flowers | premium   | $832      | $832          | high           | medium | 4      | namesilo   |
-| ito.flowers  | available | $93.35    | $103.40       | medium         | low    | 3      | spaceship  |
-| spot.flowers | premium   | $2,200    | $2,200        | high           | medium | 4      | dynadot    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| aas.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
+| the.flowers   | premium   | $832      | $832          | high           | medium | 3      | namesilo   |
+| abi.flowers   | available | $100      | $100          | high           | low    | 3      | cloudflare |
+| aqua.flowers  | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo   |
+| apr.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
+| faux.flowers  | premium   | $832      | $832          | high           | low    | 4      | namesilo   |
+| ash.flowers   | available | $93.35    | $103.40       | high           | medium | 3      | spaceship  |
+| fuse.flowers  | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship  |
+| bbs.flowers   | available | $108.98   | $159.98       | high           | low    | 3      | namecheap  |
+| jets.flowers  | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship  |
+| bel.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
+| moss.flowers  | premium   | $832      | $832          | high           | medium | 4      | namesilo   |
+| dns.flowers   | available | $93.35    | $103.40       | high           | medium | 3      | spaceship  |
+| paul.flowers  | premium   | $832      | $832          | high           | medium | 4      | namesilo   |
+| esp.flowers   | available | $64.99    | $114.99       | high           | low    | 3      | namesilo   |
+| spot.flowers  | premium   | $2,200    | $2,200        | high           | medium | 4      | dynadot    |
+| fdr.flowers   | available | $107.22   | $107.22       | high           | low    | 3      | dynadot    |
+| bayer.flowers | premium   | $2,660    | $2,660        | high           | medium | 5      | namesilo   |
+| ffa.flowers   | available | $93.35    | $103.40       | high           | low    | 3      | spaceship  |
+| chloe.flowers | premium   | $2,600    | $2,600        | high           | medium | 5      | namecheap  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,723 live domains                        |
+| 1,000-row public sample | 30,245 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 93 high-demand names under $2,500          |
+| Basic exported fields   | 117 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLOWERS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
